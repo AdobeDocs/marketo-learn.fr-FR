@@ -2,9 +2,9 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 15%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 15%
 + Gestion des leads et des données {#lead-and-data-management}
    + [Lead Scoring](lead-and-data-management/lead-scoring-learn.md)
    + [Présentation du score de piste](lead-and-data-management/lead-scoring-watch.md)
-   + [Exemples de score de piste](lead-and-data-management/lead-scoring.md)
    + [Centre d&#39;inscription](lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d&#39;inscription](lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 15%
    + [Présentation des actions d’aperçu des ventes](sales-insight-actions/sales-insight-actions-overview.md)
    + [Accès à votre instance d’actions Sales Insight](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Masqué {#hidden}
+   + [Score de piste Marketo et Mochas](events/marketo-and-mochas/lead-scoring.md)
+   + [Attribution Marketo et Mochas Marketo Measure](events/marketo-and-mochas/attribution.md)
