@@ -1,8 +1,9 @@
 ---
 title: Tutoriels sur Marketo Engage
 description: Visionner des tutoriels vidéo sur [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
+doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: be8279112985cbadab5a87c281ba914956cd6ccc
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%
