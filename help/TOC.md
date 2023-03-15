@@ -2,7 +2,7 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 14%
@@ -38,7 +38,6 @@ ht-degree: 14%
    + [Contenu dynamique et prédictif](email-marketing/dynamic-and-predictive-content-learn.md)
    + [Filtrage des activités de robots de messagerie - Configuration](filtering-email-bot-activities/setup.md)
 + Marketing cross-canal {#cross-channel-marketing}
-   + [Présentation des événements](events/events-watch.md)
    + [Présentation de Forms](email-marketing/forms-watch.md)
    + [Intégration du marketing mobile](cross-channel-marketing/mobile-marketing-learn.md)
    + [Présentation du marketing mobile](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 14%
    + [Présentation du SEO et du PPC](cross-channel-marketing/seo-and-ppc-watch.md)
    + [Marketing social](cross-channel-marketing/social-marketing-learn.md)
    + [Présentation du marketing sur les réseaux sociaux](cross-channel-marketing/social-marketing-watch.md)
-   + [Webinaires](events/webinar-learn.md)
-   + [Webinaires présentation](events/webinar-watch.md)
    + [Personnalisation web](cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](cross-channel-marketing/web-personalization-watch.md)
 + Chat dynamique {#dynamic-chat}
@@ -61,7 +58,7 @@ ht-degree: 14%
    + [Mise en ligne en 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
    + [Incorporer le PDF dans les conversations](dynamic-chat/document-cloud-integration.md)
 + Actions d’aperçu commercial {#sales-insight-actions}
-   + [APERÇU](sales-insight-actions/overview.md)
+   + [Vue d’ensemble](sales-insight-actions/overview.md)
    + [Présentation des actions d’aperçu des ventes](sales-insight-actions/sales-insight-actions-overview.md)
    + [Accès à votre instance d’actions Sales Insight](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
@@ -77,7 +74,10 @@ ht-degree: 14%
    + [Bonnes pratiques](instance-management/best-practice-learn.md)
    + [Présentation des bonnes pratiques](instance-management/best-practice-watch.md)
 + Événements {#events}
+   + [Présentation des événements](events/events-watch.md)
    + [Créer un programme d&#39;événement](events/events-learn.md)
+   + [Webinaires](events/webinar-learn.md)
+   + [Webinaires présentation](events/webinar-watch.md)
    + [Concevoir un webinaire interactif efficace](events/design-an-effective-interactive-webinar.md)
 + Masqué {#hidden}
    + [Score de piste Marketo et Mochas](event-recordings/marketo-and-mochas/lead-scoring.md)
