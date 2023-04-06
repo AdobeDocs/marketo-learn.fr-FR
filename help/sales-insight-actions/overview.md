@@ -3,7 +3,7 @@ title: Tutorials d’actions d’aperçu commercial
 description: Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les eff
 <p><em>Accélérez les efforts de prospection grâce à des outils d’intelligence et d’engagement basés sur le marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="image miniature pour [!DNL Sales Insight Actions] Guide d’intégration des utilisateurs" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] Guide d’intégration des utilisateurs</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="image miniature pour [!DNL Sales Insight Actions] Guide d’intégration des utilisateurs" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guide d’intégration des utilisateurs</strong></a></div>
 <p><em>Pour commencer, les nouveaux utilisateurs doivent suivre les étapes suivantes.</em></p>
 </td>
 <td>
