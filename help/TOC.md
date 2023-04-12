@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 13%
+source-wordcount: '217'
+ht-degree: 15%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 13%
    + [Structure organisationnelle](fundamentals/organizational-structure-learn.md)
    + [Marketing du contenu](fundamentals/content-marketing-learn.md)
    + [Personnalités relatives aux acheteurs](fundamentals/buyer-personas-learn.md)
+   + [Programmes et campagnes](fundamentals/programs-and-campaigns.md)
 + Marketing par e-mail {#email-marketing}
    + [Email planifié](email-marketing/scheduled-email-learn.md)
    + [Présentation planifiée des emails](email-marketing/scheduled-email-watch.md)
@@ -60,7 +61,7 @@ ht-degree: 13%
    + [Recherche dans le Concepteur de flux](dynamic-chat/search-in-stream-designer.md)
    + [Capture des attributs déduits](dynamic-chat/capture-inferred-attributes.md)
    + [Aperçu de la boîte de dialogue](dynamic-chat/dialogue-preview.md)
-   + [Rapport Engagement](dynamic-chat/engagement-report.md)
+   + [Rapport d’engagement](dynamic-chat/engagement-report.md)
    + [Mondialisation du contenu statique](dynamic-chat/globalization-of-static-content.md)
    + [Rôles et autorisations](dynamic-chat/roles-and-permissions.md)
 + Actions d’aperçu commercial {#sales-insight-actions}
