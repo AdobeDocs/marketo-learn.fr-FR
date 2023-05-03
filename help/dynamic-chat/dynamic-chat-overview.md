@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ Bienvenue dans la [!UICONTROL Chat dynamique]  site de tutoriels. Utilisez ces t
    *Nous pouvons identifier et renseigner les attributs déduits par rapport à chaque piste capturée par le biais de Dynamic Chat en utilisant l’identifiant Munchkin.*
 * **[Aperçu de la boîte de dialogue](dialogue-preview.md)**
    *La prévisualisation de votre boîte de dialogue avant la publication est très facile avec la fonctionnalité d’aperçu de dialogue.*
-* **[Rapport Engagement](engagement-report.md)**
+* **[Rapport d’engagement](engagement-report.md)**
    *Découvrez les tendances de la manière dont vos visiteurs web interagissent avec votre dialogue*
 * **[Mondialisation du contenu statique](globalization-of-static-content.md)**
    *Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.*
