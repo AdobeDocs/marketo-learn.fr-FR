@@ -3,15 +3,16 @@ title: Concevoir un webinaire interactif efficace
 description: Découvrez comment créer et concevoir un webinaire interactif efficace
 role: User
 level: Beginner
-hide: true
-hidefromtoc: true
-source-git-commit: d9372c9a8157aa4c4358fc810d38f4005a08d430
+exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
+source-git-commit: 384a9abb2b0a035e35ef9722113100753ec93b37
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 9%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 
 # Concevoir un webinaire interactif efficace {#design-an-effective-interactive-webinar}
 
-Disponible bientôt
+La conception d’un webinaire interactif efficace est la première étape pour vous assurer que la diffusion de votre événement webinaire est engageante et mémorisable. En tant que spécialiste du marketing, vous avez différents objectifs pour la diffusion d’un webinaire, tels que la présentation de votre produit afin de générer des pistes, l’évangélisation d’un concept ou d’une technologie afin de générer de l’intérêt, la diffusion d’un atelier pour impliquer des pistes, etc. Les différents objectifs nécessitent des stratégies différentes pour que vous diffusiez le webinaire de manière optimale en fonction des besoins des différents segments d’audience afin de vous assurer que vous avez la participation et l’engagement appropriés pour atteindre vos objectifs.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
