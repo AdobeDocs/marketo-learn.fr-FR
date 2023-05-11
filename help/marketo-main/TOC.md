@@ -2,7 +2,7 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 6c8e6e72de48b4af69ec0f3443bae732a229ef15
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 15%
@@ -39,7 +39,7 @@ ht-degree: 15%
    + [Présentation détaillée des emails déclenchés](/help/email-marketing/triggered-email-watch.md)
    + [Prise en charge des pistes](/help/email-marketing/lead-nuturing-learn.md)
    + [Contenu dynamique et prédictif](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtrage des activités de robots de messagerie - Configuration](filtering-email-bot-activities/setup.md)
+   + [Filtrage des activités de robots de messagerie - Configuration](/help/filtering-email-bot-activities/setup.md)
 + Marketing cross-canal {#cross-channel-marketing}
    + [Présentation de Forms](/help/email-marketing/forms-watch.md)
    + [Intégration du marketing mobile](/help/cross-channel-marketing/mobile-marketing-learn.md)
