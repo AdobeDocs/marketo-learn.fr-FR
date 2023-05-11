@@ -3,7 +3,7 @@ title: Tutoriels sur Marketo Engage
 description: Visionner des tutoriels vidéo sur [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%
@@ -27,7 +27,7 @@ Récemment ajoutés [!DNL Marketo Engage] tutoriels :
 * **[[!DNL Sales Insight Actions] tutoriels](/help/sales-insight-actions/overview.md)**
    _Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow._
 
-* **[Tutoriels sur le filtrage des activités de robots de messagerie](filtering-email-bot-activities/setup.md)**
+* **[Tutoriels sur le filtrage des activités de robots de messagerie](/help/filtering-email-bot-activities/setup.md)**
 
    _Un guide pour vous aider à activer l’identification des activités d’email par des robots et comment filtrer et créer des campagnes à l’exclusion des robots._
 
