@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 4db7653b7d3f978d47b5f01feee30ef07c6334f3
+source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Pour plus d’informations, consultez les guides produit connexes :
 * [Présentation de la documentation sur les programmes de messagerie] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Visionnez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
-* [Présentation planifiée des courriers électroniques](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [Présentation d’AB Testing](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Présentation planifiée des emails](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [Présentation des tests AB](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Découvrez comment utiliser les programmes de messagerie à partir de vos pairs :
 * [Article de blog d’un expert : Programmes de messagerie électronique](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
