@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
+source-git-commit: c86e4ce20aa651eb836b5e40a1799f7aa6e044a3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Regardez ce tutoriel détaillé pour savoir comment créer un programme de messa
 ## Ressources supplémentaires :
 
 Pour plus d’informations, consultez les guides produit connexes :
-* [Présentation de la documentation sur les programmes de messagerie] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Présentation de la documentation sur les programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Visionnez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
 * [Présentation planifiée des emails](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
