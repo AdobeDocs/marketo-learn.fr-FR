@@ -2,9 +2,9 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 14%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 14%
    + [Marketing du contenu](/help/fundamentals/content-marketing-learn.md)
    + [Personnalités relatives aux acheteurs](/help/fundamentals/buyer-personas-learn.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
-+ Prise en main {#get-started}
-   + [Navigation dans l’interface utilisateur](/help/get-started/ui-navigation.md)
+   + [Navigation dans l’interface utilisateur](/help/fundamentals/ui-navigation.md)
+   + Programmes et campagnes {#programs}
+      + [Présentation des programmes et des campagnes](help/programs/understanding-programs-and-campaigns.md)
+      + [Programmes par défaut](/help/programs/default-programs.md)
+      + [Programmes de messagerie électronique](/help/programs/email-programs.md)
+      + [Programmes d’événement](/help/programs/event-programs.md)
+      + [Programmes d&#39;engagement](/help/programs/engagement-programs.md)
 + Programmes {#programs}
-   + [Présentation des programmes par défaut](/help/programs/default-programs-overview.md)
-   + [Présentation des programmes email](/help/programs/email-programs-overview.md)
-   + [Présentation des programmes d’événement](/help/programs/event-programs-overview.md)
-   + [Présentation des programmes d’engagement](/help/programs/engagement-programs-overview.md)
+   + [Présentation des programmes et des campagnes](help/programs/understanding-programs-and-campaigns.md)
+   + [Programmes par défaut](/help/programs/default-programs.md)
+   + [Programmes de messagerie électronique](/help/programs/email-programs.md)
+   + [Programmes d’événement](/help/programs/event-programs.md)
+   + [Programmes d&#39;engagement](/help/programs/engagement-programs.md)
 + Marketing par e-mail {#email-marketing}
    + [Email planifié](/help/email-marketing/scheduled-email-learn.md)
    + [Présentation planifiée des emails](/help/email-marketing/scheduled-email-watch.md)

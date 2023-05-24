@@ -6,26 +6,13 @@ level: Beginner
 kt: 13203
 thumbnail: 3418042.jpg
 exl-id: 3420976b-d64f-4afe-8ef3-6f8cfd9858fe
-source-git-commit: f2b2b862a78e6e10fee1c92d591edcafbfa07391
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
 
 # Présentation des programmes et campagnes Marketo
 
-Les programmes représentent une initiative marketing unique. Découvrez comment les exploiter avec des campagnes pour atteindre votre audience de différentes manières.
-
->[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on)
-
-## Ressources supplémentaires
-
-Pour plus d’informations, consultez les guides produit connexes :
-
-* [Présentation de la documentation sur les programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Présentation de la documentation sur les campagnes intelligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
-
-Apprenez à vos pairs à utiliser les campagnes intelligentes :
-
-* [Article de blog d’un expert : Campagnes intelligentes 101 : Exploration approfondie de Adobe Marketo Engage - Fonctionnalité la plus puissante](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+{{$include /help/_includes/incl-programs-and-campaigns.md}}
