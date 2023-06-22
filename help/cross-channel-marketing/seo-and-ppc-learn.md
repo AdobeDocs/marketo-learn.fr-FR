@@ -3,10 +3,10 @@ title: Découvrez comment optimiser vos efforts d’optimisation du référencem
 description: Votre site web se perd-il dans des centaines de résultats de recherche ? Découvrez comment accroître la visibilité de votre marque en améliorant vos stratégies d’optimisation du moteur de recherche et de PC.
 role: User
 level: Beginner
-kt: 10731
+jira: KT-10731
 thumbnail: 345401.jpeg
 exl-id: 1ab0de6b-7a9e-4b86-a9f6-2ba655d9e1fc
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

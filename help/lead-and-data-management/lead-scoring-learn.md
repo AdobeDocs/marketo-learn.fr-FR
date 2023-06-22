@@ -3,10 +3,10 @@ title: En savoir plus sur la création d’un programme de notation de piste
 description: Améliorez la qualité des pistes fournies par le marketing aux ventes à l’aide d’un programme de notation des pistes.  Découvrez la notation des pistes, son fonctionnement et les étapes permettant de réaliser ses avantages mesurables.
 role: User
 level: Beginner
-kt: 10740
+jira: KT-10740
 thumbnail: 345424.jpeg
 exl-id: 70379a0e-2a11-4dd9-9faa-65d5ede388c2
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

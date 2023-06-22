@@ -3,10 +3,10 @@ title: Découvrez la création d’un programme personnalisé d’email de newsl
 description: Interagissez avec les prospects et les clients de manière rentable en utilisant des newsletters email personnalisées.
 role: User
 level: Beginner
-kt: 10751
+jira: KT-10751
 thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

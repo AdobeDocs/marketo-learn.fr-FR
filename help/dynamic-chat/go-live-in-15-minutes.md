@@ -1,12 +1,12 @@
 ---
-title: Mise en ligne de Dynamic Chat en seulement 15 minutes
-description: Un guide pas à pas pour vous aider à démarrer votre première boîte de dialogue avec Dynamic Chat en seulement 15 minutes !
+title: Rejoindre Dynamic Chat en 15 minutes
+description: Un guide pas à pas pour vous aider à démarrer votre premier dialogue en utilisant Dynamic Chat en seulement 15 minutes !
 role: User
 level: Beginner
-kt: 10239
+jira: KT-10239
 thumbnail: 342164.jpeg
 exl-id: d0e8df26-e09e-4330-a74b-06c81ed7ce14
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

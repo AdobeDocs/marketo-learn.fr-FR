@@ -3,10 +3,10 @@ title: Création d’un programme d’événement
 description: Découvrez comment créer un programme d’événement de salons professionnels basé sur un programme prédéfini dans Marketo.
 role: User
 level: Beginner
-kt: 10754
+jira: KT-10754
 thumbnail: 345473.jpeg
 exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
-source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Découvrez comment créer un programme d’événement de salons professionnels 
 
 Pour plus d’informations sur la création d’un programme d’événement, voir le guide produit :
 
-* [ Documentation Créer un programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Documentation Créer un programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
