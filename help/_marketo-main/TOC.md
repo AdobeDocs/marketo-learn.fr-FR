@@ -2,9 +2,9 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 709d91f881ea8ea0c851c5fc03939ca3bfa842f7
+source-git-commit: cce7cf1bf7dee93837ab399a0b4cfc79bfa925bf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '259'
 ht-degree: 13%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 13%
    + [Personnalités relatives aux acheteurs](/help/fundamentals/buyer-personas-learn.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Navigation dans l’interface utilisateur](/help/fundamentals/ui-navigation.md)
-   + [Présentation des programmes et des campagnes](/help/fundamentals/understand-programs-and-campaigns.md)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Programmes par défaut](/help/programs/default-programs.md)
@@ -37,7 +36,7 @@ ht-degree: 13%
    + [Présentation de l’offre de contenu liée](/help/email-marketing/gated-content-offer-watch.md)
    + [Test A/B](/help/email-marketing/ab-testing-learn.md)
    + [Présentation du test A/B](/help/email-marketing/ab-testing-watch.md)
-   + [Pages de destination ](/help/email-marketing/landing-pages-learn.md)
+   + [Pages de destination](/help/email-marketing/landing-pages-learn.md)
    + [Présentation des landing pages](/help/email-marketing/landing-pages-watch.md)
    + [Formulaires](/help/email-marketing/forms-learn.md)
    + [Délivrabilité des emails](/help/email-marketing/email-deliverability-learn.md)
