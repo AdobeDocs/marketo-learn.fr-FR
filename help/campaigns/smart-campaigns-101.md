@@ -1,5 +1,5 @@
 ---
-title: Campagnes intelligentes 101 - Ce que vous pouvez faire des campagnes intelligentes au-delà des programmes principaux
+title: Campagnes intelligentes 101
 description: Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
+source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '113'
 ht-degree: 2%
 
 ---
 
-# Campagnes intelligentes 101 - Ce que vous pouvez faire des campagnes intelligentes au-delà des programmes principaux
+# Campagnes intelligentes 101
 
 Les campagnes intelligentes sont le moteur de Marketo. Outre l’utilisation de campagnes intelligentes pour envoyer des emails et des programmes, vous pouvez utiliser des campagnes intelligentes pour divers cas d’utilisation. Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
 
