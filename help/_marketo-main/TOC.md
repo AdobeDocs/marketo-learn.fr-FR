@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 13%
+source-wordcount: '277'
+ht-degree: 12%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 13%
    + [Personnalités relatives aux acheteurs](/help/fundamentals/buyer-personas-learn.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Navigation dans l’interface utilisateur](/help/fundamentals/ui-navigation.md)
+   + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Bonnes pratiques pour la création de programmes de base](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 13%
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
    + [Cycle de vie des leads](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Présentation du cycle de vie des pistes](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Gestion des instances {#instance-management}
-   + [Bonnes pratiques](/help/instance-management/best-practice-learn.md)
-   + [Présentation des bonnes pratiques](/help/instance-management/best-practice-watch.md)
 + Événements {#events}
    + [Présentation des événements](/help/events/events-watch.md)
    + [Créer un programme d&#39;événement](/help/events/events-learn.md)
