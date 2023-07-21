@@ -2,9 +2,9 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
+source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 12%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 12%
    + [Navigation dans l’interface utilisateur](/help/fundamentals/ui-navigation.md)
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour la création de programmes de base](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
+   + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
