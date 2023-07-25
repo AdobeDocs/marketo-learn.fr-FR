@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12964
 thumbnail: 3416921.jpeg
 exl-id: bb4d0570-5790-454c-8787-ae18b6ebe7ce
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 7%
@@ -23,6 +24,6 @@ Désormais, découvrez les tendances de la manière dont vos visiteurs web inter
 
 ## Vidéos plus utiles
 
-* [Ajout et gestion des utilisateurs d’ [!UICONTROL Chat dynamique] ](user-management.md)
+* [Ajout et gestion des utilisateurs d’ [!UICONTROL Chat dynamique]](user-management.md)
 * [Créer et gérer des boîtes de dialogue personnalisées](dialogue-management.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique] ](marketo-integration.md)
+* [Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique]](marketo-integration.md)

@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12968
 thumbnail: 3416925.jpeg
 exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -23,6 +24,6 @@ Une recherche rapide peut vous aider à accéder à n’importe quelle carte de 
 
 ## Vidéos plus utiles
 
-* [Aperçu de la boîte de dialogue ](dialogue-preview.md)
+* [Aperçu de la boîte de dialogue](dialogue-preview.md)
 * [Créer et gérer des boîtes de dialogue personnalisées](dialogue-management.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique] ](marketo-integration.md)
+* [Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique]](marketo-integration.md)
