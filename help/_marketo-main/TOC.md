@@ -2,9 +2,9 @@
 user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 12%
 
 ---
@@ -29,9 +29,13 @@ ht-degree: 12%
    + [Programmes de messagerie électronique](/help/programs/email-programs.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
    + Programmes par défaut {#default-programs}
-      + [Création et mesure d’un programme par défaut](/help/programs/create-and-measure-default-programs.md)
+      + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
       + [Utiliser la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Programmes d&#39;engagement](/help/programs/engagement-programs.md)
+   + Cartes d’engagement {#engagement-maps}
+      + [Présentation de la carte des engagements](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Campagnes imbriquées d’une carte d’engagement](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Détection et résolution des erreurs de mappage d’engagement](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + Marketing par e-mail {#email-marketing}
    + [Email planifié](/help/email-marketing/scheduled-email-learn.md)
    + [Présentation planifiée des emails](/help/email-marketing/scheduled-email-watch.md)
@@ -61,7 +65,7 @@ ht-degree: 12%
    + [Présentation du marketing sur les réseaux sociaux](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Chat dynamique {#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [Tutoriels sur Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Visite de produit](/help/dynamic-chat/product-tour.md)
    + [Installation et installation](/help/dynamic-chat/setup.md)
@@ -73,7 +77,7 @@ ht-degree: 12%
    + [Incorporer le PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
    + [Recherche dans le Concepteur de flux](/help/dynamic-chat/search-in-stream-designer.md)
    + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [Aperçu de la boîte de dialogue](/help/dynamic-chat/dialogue-preview.md)
+   + [Prévisualisation des dialogues](/help/dynamic-chat/dialogue-preview.md)
    + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
    + [Mondialisation du contenu statique](/help/dynamic-chat/globalization-of-static-content.md)
    + [Rôles et autorisations](/help/dynamic-chat/roles-and-permissions.md)
@@ -84,7 +88,7 @@ ht-degree: 12%
    + [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Gestion des leads et des données {#lead-and-data-management}
    + [Lead Scoring](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Présentation du score de piste](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Présentation de la notation des pistes](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centre d&#39;inscription](/help/lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d&#39;inscription](/help/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
