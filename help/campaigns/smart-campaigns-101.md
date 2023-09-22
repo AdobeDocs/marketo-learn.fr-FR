@@ -9,9 +9,9 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 feature: Smart Campaigns
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Les campagnes intelligentes sont le moteur de Marketo. Outre l’utilisation de campagnes intelligentes pour envoyer des emails et des programmes, vous pouvez utiliser des campagnes intelligentes pour divers cas d’utilisation. Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Ressources complémentaires
@@ -31,5 +31,5 @@ Les campagnes intelligentes sont le moteur de Marketo. Outre l’utilisation de 
 
 **Publications d’experts du blog client :**
 
-* [Campagnes intelligentes 101 : Exploration approfondie de Adobe Marketo Engage - Fonctionnalité la plus puissante](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Série de succès Marketo : Campagnes intelligentes](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [Campagnes Intelligentes 101 : Exploration Approfondie De La Fonctionnalité La Plus Puissante De Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Série de succès Marketo : campagnes dynamiques](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

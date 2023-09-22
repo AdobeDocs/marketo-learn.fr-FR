@@ -7,18 +7,18 @@ jira: KT-9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique]
+# Activation de l’intégration Marketo avec [!UICONTROL Dynamic Chat]
 
 [!UICONTROL Dynamic Chat]  est intégré nativement à [!DNL Marketo Engage], qui vous permet d’utiliser le contexte des conversations sur les robots pour recibler ou noter vos prospects.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 

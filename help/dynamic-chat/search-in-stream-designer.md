@@ -9,9 +9,9 @@ jira: KT-12968
 thumbnail: 3416925.jpeg
 exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 Une recherche rapide peut vous aider à accéder à n’importe quelle carte de votre concepteur de flux en un seul clic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 
-* [Aperçu de la boîte de dialogue](dialogue-preview.md)
+* [Prévisualisation des dialogues](dialogue-preview.md)
 * [Créer et gérer des boîtes de dialogue personnalisées](dialogue-management.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Chat dynamique]](marketo-integration.md)
+* [Activation de l’intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)
