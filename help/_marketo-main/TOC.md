@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 13%
+source-wordcount: '307'
+ht-degree: 12%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 13%
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour la création de programmes de base](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
-   + [Audit d’instance héritée](/help/fundamentals/inherted-instance-audit.md)
+   + [Audit d’une instance héritée](/help/fundamentals/inherted-instance-audit.md)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 13%
    + [Accès à votre instance d’actions Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Gestion des leads et des données {#lead-and-data-management}
-   + [Lead Scoring](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Présentation de la notation des pistes](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Score de piste/personne](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Présentation de la notation des pistes/personnes](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centre d&#39;inscription](/help/lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d&#39;inscription](/help/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
