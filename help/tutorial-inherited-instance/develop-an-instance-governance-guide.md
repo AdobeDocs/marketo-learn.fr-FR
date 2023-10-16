@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Lorsque vous entrez dans un ancien [!DNL Marketo Engage] Par exemple, il s’agit souvent d’un problème de manque de documentation fonctionnelle et technique à jour. En tant qu’administrateur, l’établissement de directives pour garantir une gouvernance d’instance appropriée est une responsabilité essentielle que vous ne pouvez pas négliger. C&#39;est l&#39;une des stratégies cruciales pour [efficacité du lecteur lorsque vous travaillez sur une instance Marketo Engage établie](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Ce tutoriel détaillé issu de [!DNL Adobe Marketo Champion], Nick Hajdin vous guidera tout au long de ce processus pour décrire la configuration de votre instance, documenter vos programmes opérationnels principaux et gérer une [!DNL changelog] pour appliquer une politique de gouvernance stricte.
+Ce tutoriel détaillé issu de [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, vous guidera tout au long de ce processus pour décrire la configuration de votre instance, documenter vos programmes opérationnels principaux et gérer une [!DNL changelog] pour appliquer une politique de gouvernance stricte.
 
 ## Pourquoi développer un guide et une documentation de gouvernance d’instance pour votre instance héritée ?
 
