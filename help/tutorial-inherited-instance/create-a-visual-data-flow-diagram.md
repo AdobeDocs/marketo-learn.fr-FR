@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Créer un diagramme de flux de données visuel pour comprendre votre pile de technologies marketing
 
-En tant qu’administrateur qui prend la relève d’un [!DNL Marketo Engage] qui est en ligne depuis des années, c&#39;est comme une mission impossible à contrôler et à organiser efficacement l&#39;instance. Quand Adobe [!DNL Marketo Champion]Kelly Jo Horton, entrée dans une instance de longue date, s&#39;est attelée à ce défi par [création d’un diagramme &quot;Plomb et sources de données&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} pour se familiariser avec l&#39;univers des données. Dans ce tutoriel, vous apprendrez à créer votre propre diagramme de flux de données en vous basant sur les exemples partagés par Kelly Jo Horton. Connaissons votre écosystème MarTech !
+En tant qu’administrateur qui prend la relève d’un [!DNL Marketo Engage] qui est en ligne depuis des années, c&#39;est comme une mission impossible à contrôler et à organiser efficacement l&#39;instance. Quand Adobe [!DNL Marketo Champion] (2019), Kelly Jo Horton, est entrée dans une instance établie de longue date, elle s&#39;est attaquée à ce défi par [création d’un diagramme &quot;Plomb et sources de données&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} pour se familiariser avec l&#39;univers des données. Dans ce tutoriel, vous apprendrez à créer votre propre diagramme de flux de données en vous basant sur les exemples partagés par Kelly Jo Horton. Connaissons votre écosystème MarTech !
 
 ## Pourquoi créer un diagramme d’architecture pour votre instance héritée ?
 
@@ -124,7 +124,7 @@ Voici quelques outils que vous pouvez utiliser : draw.io (Google Docs), Adobe XD
 ## Auteurs
 
 **Kelly Jo Horton**\
-Adobe Marketo Champion de l’album
+Champion Marketo Adobe (2019)
 *Partenaire client senior chez Etumos*
 
 ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
