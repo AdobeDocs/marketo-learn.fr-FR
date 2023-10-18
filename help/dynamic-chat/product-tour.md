@@ -1,28 +1,28 @@
 ---
 title: Visite du produit du Dynamic Chat
-description: Découvrez la discussion dynamique, une nouvelle solution de bot conversationnel conçue par Adobe dédiée au marketing et aux ventes.
+description: Découvrez Dynamic Chat, une nouvelle solution de chat conçue pour le marketing et les ventes d’Adobe.
 role: User
 level: Beginner
-jira: KT-9697
-thumbnail: 340473.jpeg
-exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-feature: Dynamic Chat
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+doc-type: Feature Video
+last-substantial-update: 2023-10-18T00:00:00Z
+jira: KT-14209
+thumbnail: 3425033.jpeg
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# Visite du produit [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  est une nouvelle solution de chatbot conçue pour le marketing et les ventes. Il est nativement intégré à [!DNL Marketo Engage], qui vous permet d’utiliser [!UICONTROL Dynamic Chat]  en tant que nouveau canal de votre marketing cross-canal. Il est simple à utiliser et facile à configurer. Visitez rapidement les produits :
+# Visite du produit [!UICONTROL Dynamic Chat] [2023]
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+Contactez vos visiteurs web grâce à des conversations personnalisées qui généreront des pistes, répondront aux questions des visiteurs grâce à la puissance de GenAI, redirigeront l’utilisateur vers un agent de vente et recibleront également les pistes de conversation sur d’autres canaux pour orienter les réservations de réunions.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425033/?learn=on)
 
 ## Vidéos plus utiles
 
+* [Présentation [2022]](product-tour-2022.md)
 * [Configuration et installation de votre chatbot](setup.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [Ajout et gestion des utilisateurs d’ [!UICONTROL Dynamic Chat]](user-management.md)
 * [Aller en ligne en seulement 15 minutes](go-live-in-15-minutes.md)

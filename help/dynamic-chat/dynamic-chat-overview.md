@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 Bienvenue dans la [!UICONTROL Dynamic Chat]  site de tutoriels. Utilisez ces tutoriels ainsi que la documentation pour mieux comprendre comment utiliser [!UICONTROL Dynamic Chat]  pour créer des conversations personnalisées. Les rubriques suivantes peuvent vous aider à démarrer :
 
 * Vue d’ensemble
-   * **[Visite rapide des produits](product-tour.md)**
+   * **[Visite rapide des produits [2023]](product-tour.md)**
+     *Obtenez un aperçu de toutes les nouvelles fonctionnalités lancées en 2023.*
+   * **[Visite rapide des produits [2022]](product-tour.md)**
      *Obtenez un aperçu de l’ensemble du produit et découvrez comment tirer parti [!UICONTROL Dynamic Chat].*
    * **[Mise en ligne en 15 minutes](go-live-in-15-minutes.md)**
      *Un guide détaillé pour vous aider à passer en direct à la première boîte de dialogue à l’aide de [!UICONTROL Dynamic Chat]  en seulement 15 minutes !*
@@ -50,9 +52,11 @@ Bienvenue dans la [!UICONTROL Dynamic Chat]  site de tutoriels. Utilisez ces tut
      *Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.*
    * **[Formulaires conversationnels](conversational-forms.md)**
      *Découvrez comment interagir avec les visiteurs de votre site Web immédiatement après qu’ils ont rempli un formulaire.*
+   * **[SDK Conversations](conversations-sdk.md)**
+     *Découvrez comment mettre en oeuvre le SDK Conversations pour convertir un clic CTA en conversation engageante.*
 * Chat en direct et réservation de réunions
-   * **[Configuration de la messagerie instantanée](set-up-live-chat.md)**
-     *Découvrez comment configurer le chat en direct.*
+   * **[Connexion des visiteurs aux agents actifs](connect-visitors-to-live-agents.md)**
+     *Connectez vos prospects qualifiés pour interagir instantanément avec vos agents de vente.*
    * **[Activation des pistes pour réserver des réunions avec vos ventes](meeting-booking.md)**
      *Accélérer la connexion avec les ventes pour ceux-ci [!DNL target] des comptes avec des fonctionnalités de réservation de réunions.*
 * Analytics
