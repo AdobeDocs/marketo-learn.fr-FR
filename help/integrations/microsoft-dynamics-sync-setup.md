@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 
 # Prise en main de la synchronisation Microsoft Dynamics
-
-*Source : Adobe des champions Marketo*
 
 Découvrez le fonctionnement de la synchronisation Microsoft Dynamics 365 et configurez correctement la configuration pour permettre aux deux systèmes de communiquer entre eux. Ce tutoriel vous guide tout au long de la synchronisation, du téléchargement de la solution Marketo Lead Management (MLM), de l’installation de la solution MLM pour la connexion serveur à serveur et de la connexion des deux systèmes. D’autres conseils et astuces pour valider la synchronisation, limiter le nombre d’enregistrements synchronisés et estimer le temps de synchronisation sont partagés pour vous aider à configurer votre synchronisation Microsoft Dynamics.
 
