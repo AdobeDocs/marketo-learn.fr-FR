@@ -9,9 +9,9 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Enregistrer les erreurs de synchronisation CRM pour faciliter le dépannage
 
-En tant qu’administrateur de Marketo Engage, la vérification de la synchronisation de votre instance avec votre CRM doit être un élément clé de votre [routine quotidienne](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (le trouver dans le coin supérieur droit de l’interface de votre Marketo Engage) est l’endroit où vous allez commencer à rechercher et à étudier les problèmes de synchronisation fréquents. Il existe une astuce promotionnelle qui peut vous aider à gérer l’intégrité de l’instance de manière organisée.  Adobe Marketo Champion (2022), Amy Goldfine recommande aux utilisateurs administrateurs de conserver un journal des erreurs de synchronisation CRM afin de faciliter le dépannage.
+En tant qu’administrateur de Marketo Engage, la vérification de la synchronisation de votre instance avec votre CRM doit être un élément clé de votre [routine quotidienne](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (le trouver dans le coin supérieur droit de l’interface de votre Marketo Engage) est l’endroit où vous allez commencer à rechercher et à étudier les problèmes de synchronisation fréquents. Il existe une astuce promotionnelle qui peut vous aider à gérer l’intégrité de l’instance de manière organisée. Champion Marketo Adobe (2019-2022), Amy Goldfine recommande aux utilisateurs administrateurs de conserver un journal des erreurs de synchronisation CRM afin de faciliter le dépannage.
 
 ![Capture d’écran de l’onglet Erreurs de synchronisation](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -52,8 +52,8 @@ Avant de commencer, téléchargez la [Modèle de journal des erreurs de synchron
 ## Auteurs
 
 **Amy Goldfine**\
-Champion Marketo Adobe (2022)
-*Responsable principal des opérations marketing, interchangeable*
+Champion Marketo Adobe (2019-2022)
+*Fondateur : MarketingOpsAdvice.com*
 
 ![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
