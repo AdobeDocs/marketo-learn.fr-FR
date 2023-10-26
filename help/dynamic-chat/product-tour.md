@@ -1,6 +1,6 @@
 ---
 title: Visite du produit du Dynamic Chat
-description: Découvrez Dynamic Chat, une nouvelle solution de chat conçue pour le marketing et les ventes d’Adobe.
+description: Découvrez Dynamic Chat, une nouvelle solution de chat conçue pour le marketing et les ventes par Adobe.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
