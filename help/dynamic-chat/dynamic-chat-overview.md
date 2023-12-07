@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,6 @@ Bienvenue dans la [!UICONTROL Dynamic Chat]  site de tutoriels. Utilisez ces tut
      *Ciblez les visiteurs web avec des conversations et personnalisez-les à l’aide des informations de piste provenant de Marketo.*
    * **[Ajout et gestion des utilisateurs d’ [!UICONTROL Dynamic Chat]](user-management.md)**
      *Découvrez comment ajouter ou gérer des utilisateurs dans [!UICONTROL Dynamic Chat] .*
-   * **[Rôles et autorisations](roles-and-permissions.md)**
-     *Découvrez comment créer de nouveaux rôles et définir des autorisations pour les utilisateurs de votre Dynamic Chat.*
    * **[Gestion des agents](agent-management.md)**
      *Découvrez comment gérer les agents.*
 * Chat automatisé
@@ -50,7 +48,7 @@ Bienvenue dans la [!UICONTROL Dynamic Chat]  site de tutoriels. Utilisez ces tut
      *La prévisualisation de votre boîte de dialogue avant la publication est très facile avec la fonctionnalité d’aperçu de dialogue.*
    * **[Mondialisation du contenu statique](globalization-of-static-content.md)**
      *Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.*
-   * **[Formulaires conversationnels](conversational-forms.md)**
+   * **[Conversation Forms](conversational-forms.md)**
      *Découvrez comment interagir avec les visiteurs de votre site Web immédiatement après qu’ils ont rempli un formulaire.*
    * **[SDK Conversations](conversations-sdk.md)**
      *Découvrez comment mettre en oeuvre le SDK Conversations pour convertir un clic CTA en conversation engageante.*
@@ -60,6 +58,6 @@ Bienvenue dans la [!UICONTROL Dynamic Chat]  site de tutoriels. Utilisez ces tut
    * **[Activation des pistes pour réserver des réunions avec vos ventes](meeting-booking.md)**
      *Accélérer la connexion avec les ventes pour ceux-ci [!DNL target] des comptes avec des fonctionnalités de réservation de réunions.*
 * Analytics
-   * **[Rapport d’engagement](engagement-report.md)**
+   * **[Rapport Engagement](engagement-report.md)**
      *Découvrez les tendances de la manière dont vos visiteurs web interagissent avec votre dialogue*
 
