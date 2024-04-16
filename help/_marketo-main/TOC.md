@@ -3,7 +3,7 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 10%
@@ -98,6 +98,8 @@ ht-degree: 10%
    + [Centre d&#39;inscription](/help/lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d&#39;inscription](/help/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Prise en main de la synchronisation Salesforce](/help/integrations/salesforce-sync-setup.md)
+   + [Prise en main de la synchronisation Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Cycle de vie des leads](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Présentation du cycle de vie des pistes](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Événements {#events}
@@ -110,6 +112,4 @@ ht-degree: 10%
    + [Rapports et analyses](/help/reporting/reporting-and-analytics.md)
    + [Rapports clés](/help/reporting/key-reports.md)
 + Intégrations {#integrations}
-   + [Prise en main de la synchronisation Salesforce](/help/integrations/salesforce-sync-setup.md)
-   + [Prise en main de la synchronisation Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo avec Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
