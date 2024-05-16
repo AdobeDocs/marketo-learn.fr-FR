@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: 4237a26e3fe7c6b523b59486afdb161d2fad97e5
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '323'
 ht-degree: 10%
 
 ---
@@ -68,32 +68,26 @@ ht-degree: 10%
    + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + Prise en main {#dc-overview}
-      + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
-      + [Présentation [2023]](/help/dynamic-chat/product-tour.md)
-      + [Présentation [2022]](/help/dynamic-chat/product-tour-2022.md)
-      + [Mise en ligne en 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + Configuration {#dc-setup}
-      + [Installation et installation](/help/dynamic-chat/setup.md)
-      + [Intégration Marketo](/help/dynamic-chat/marketo-integration.md)
-      + [Gestion des utilisateurs](/help/dynamic-chat/user-management.md)
-      + [Gestion des agents](/help/dynamic-chat/agent-management.md)
-   + Messagerie automatisée {#dc-automated-chat}
-      + [Gestion des dialogues](/help/dynamic-chat/dialogue-management.md)
-      + [Incorporer le PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
-      + [Recherche dans le Concepteur de flux](/help/dynamic-chat/search-in-stream-designer.md)
-      + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
-      + [Prévisualisation des dialogues](/help/dynamic-chat/dialogue-preview.md)
-      + [Mondialisation du contenu statique](/help/dynamic-chat/globalization-of-static-content.md)
-      + [Formulaires conversationnels](/help/dynamic-chat/conversational-forms.md)
-      + [SDK Conversations](/help/dynamic-chat/conversations-sdk.md)
-   + Chat en direct et réservation de réunions {#dc-live-chat-meeting-booking}
-      + [Connexion des visiteurs aux agents actifs](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-      + [Réservations des réunions](/help/dynamic-chat/meeting-booking.md)
-   + Conversation AI générique {#dc-generative-ai-chat}
-      + [Conduire les conversations optimisées par GenAI](/help/dynamic-chat/gen-ai-features.md)
-   + Analytics {#dc-analytics}
-      + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
+   + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Présentation [2023]](/help/dynamic-chat/product-tour.md)
+   + [Présentation [2022]](/help/dynamic-chat/product-tour-2022.md)
+   + [Mise en ligne en 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + [Installation et installation](/help/dynamic-chat/setup.md)
+   + [Intégration Marketo](/help/dynamic-chat/marketo-integration.md)
+   + [Gestion des utilisateurs](/help/dynamic-chat/user-management.md)
+   + [Gestion des agents](/help/dynamic-chat/agent-management.md)
+   + [Gestion des dialogues](/help/dynamic-chat/dialogue-management.md)
+   + [Incorporer le PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
+   + [Recherche dans le Concepteur de flux](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
+   + [Prévisualisation des dialogues](/help/dynamic-chat/dialogue-preview.md)
+   + [Mondialisation du contenu statique](/help/dynamic-chat/globalization-of-static-content.md)
+   + [Formulaires conversationnels](/help/dynamic-chat/conversational-forms.md)
+   + [SDK Conversations](/help/dynamic-chat/conversations-sdk.md)
+   + [Connexion des visiteurs aux agents actifs](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+   + [Réservations des réunions](/help/dynamic-chat/meeting-booking.md)
+   + [Conduire les conversations optimisées par GenAI](/help/dynamic-chat/gen-ai-features.md)
+   + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
 + Actions d’aperçu commercial {#sales-insight-actions}
    + [Vue d’ensemble](/help/sales-insight-actions/overview.md)
    + [Présentation des actions d’aperçu des ventes](/help/sales-insight-actions/sales-insight-actions-overview.md)
