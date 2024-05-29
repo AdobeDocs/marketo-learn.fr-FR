@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
 
->[!AVAILABILITY]
->
->Cette fonctionnalité est actuellement en cours de déploiement échelonné. Contactez votre responsable du succès client ou e-mail. `sales-insights(at)adobe(dot)com` pour demander l’accès.
-
-## Tutorials présentés {#featured-tutorials}
+## Tutorials en vedette {#featured-tutorials}
 
 <table style="table-layout:fixed">
 <tr>
@@ -42,7 +38,7 @@ Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les eff
 </tr>
 </table>
 
-## Articles présentés {#featured-articles}
+## Articles en vedette {#featured-articles}
 
 <table style="table-layout:fixed">
 <tr>
@@ -63,11 +59,3 @@ Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les eff
 </td>
 </tr>
 </table>
-
-## Assistance personnalisée {#personalized-support}
-
-Pour recevoir une assistance personnalisée pour cette fonctionnalité, veuillez [planifier un appel](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) avec l’équipe produit.
-
-## Signaler un bogue/retour {#report-a-bug-feedback}
-
-Si vous rencontrez un bogue ou avez des commentaires généraux sur cette fonctionnalité, veuillez nous envoyer un email à l’adresse `sales-insights(at)adobe(dot)com`.
