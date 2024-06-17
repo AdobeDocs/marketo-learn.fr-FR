@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 9%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 9%
 + Principes fondamentaux {#fundamentals}
    + [Objectifs et stratégie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Structure organisationnelle](/help/fundamentals/organizational-structure-learn.md)
+   + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Marketing du contenu](/help/fundamentals/content-marketing-learn.md)
    + [Personnalités relatives aux acheteurs](/help/fundamentals/buyer-personas-learn.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
