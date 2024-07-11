@@ -1,15 +1,16 @@
 ---
 title: Concevoir un webinaire interactif efficace
 description: Découvrez comment créer et concevoir un webinaire interactif efficace
+short-description: Découvrez comment concevoir un webinaire interactif efficace, première étape pour vous assurer que votre événement webinaire est engageant et mémorable.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
