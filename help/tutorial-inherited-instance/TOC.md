@@ -9,8 +9,8 @@ level: Beginner
 auto-video-transcripts: true
 source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 3%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 3%
 + [Audit d’une instance héritée](/help/tutorial-inherited-instance/audit-an-inherted-instance.md)
 + [Enregistrer les erreurs de synchronisation CRM pour faciliter le dépannage](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)
 + [Développement d’un guide de gouvernance d’instance](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
-+ [Mappage visuel de votre pile de technologies marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
++ [Mappage visuel de votre tech stack marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Processus d’assurance qualité de prélancement du programme](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Tutoriels Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Tutorials Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)

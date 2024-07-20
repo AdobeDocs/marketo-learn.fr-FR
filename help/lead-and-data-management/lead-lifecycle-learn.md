@@ -1,6 +1,6 @@
 ---
 title: Découvrez comment créer un programme de cycle de vie pour les personnes
-description: Savez-vous combien de pistes se trouvent à chaque étape du parcours de l'acheteur et quand les ventes doivent les contacter ? Découvrez comment créer un [!UICONTROL cycle de vie de la personne] qui utilise la notation pour obtenir des informations sur l’emplacement de vos pistes dans leur parcours.
+description: Savez-vous combien de pistes se trouvent à chaque étape du parcours de l'acheteur et quand les ventes doivent les contacter ? Découvrez comment créer un programme [!UICONTROL de cycle de vie des personnes] qui utilise la notation pour obtenir des informations sur l’emplacement de vos pistes dans leur parcours.
 role: User
 level: Beginner
 jira: KT-10738
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Découvrez comment créer un programme de cycle de vie pour les personnes
 
-Savez-vous combien de pistes se trouvent à chaque étape du parcours de l&#39;acheteur et quand les ventes doivent les contacter ? Découvrez comment créer un [!UICONTROL cycle de vie de la personne] qui utilise la notation pour obtenir des informations sur l’emplacement de vos pistes dans leur parcours.
+Savez-vous combien de pistes se trouvent à chaque étape du parcours de l&#39;acheteur et quand les ventes doivent les contacter ? Découvrez comment créer un programme [!UICONTROL de cycle de vie des personnes] qui utilise la notation pour obtenir des informations sur l’emplacement de vos pistes dans leur parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}

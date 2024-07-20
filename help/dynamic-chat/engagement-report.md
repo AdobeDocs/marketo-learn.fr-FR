@@ -24,6 +24,6 @@ Désormais, découvrez les tendances de la manière dont vos visiteurs web inter
 
 ## Vidéos plus utiles
 
-* [Ajout et gestion des utilisateurs d’ [!UICONTROL Dynamic Chat]](user-management.md)
+* [Ajout et gestion des utilisateurs de [!UICONTROL Dynamic Chat]](user-management.md)
 * [Créer et gérer des boîtes de dialogue personnalisées](dialogue-management.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Activez votre intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)

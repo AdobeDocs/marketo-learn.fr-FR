@@ -26,4 +26,4 @@ Une recherche rapide peut vous aider à accéder à n’importe quelle carte de 
 
 * [Prévisualisation des dialogues](dialogue-preview.md)
 * [Créer et gérer des boîtes de dialogue personnalisées](dialogue-management.md)
-* [Activation de l’intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Activez votre intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)

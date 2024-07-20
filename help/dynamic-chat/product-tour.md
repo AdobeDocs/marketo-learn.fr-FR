@@ -7,15 +7,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18T00:00:00Z
 jira: KT-14209
 thumbnail: 3425033.jpeg
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+exl-id: bbcfe157-47e6-4728-b702-455ffa1deb65
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 19%
+source-wordcount: '80'
+ht-degree: 18%
 
 ---
 
-
-# Visite du produit [!UICONTROL Dynamic Chat] [2023]
+# Visite produit de [!UICONTROL Dynamic Chat] [2023]
 
 Contactez vos visiteurs web grâce à des conversations personnalisées qui généreront des pistes, répondront aux questions des visiteurs grâce à la puissance de GenAI, redirigeront l’utilisateur vers un agent de vente et recibleront également les pistes de conversation sur d’autres canaux pour orienter les réservations de réunions.
 

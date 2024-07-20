@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment créer et exécuter [!UICONTROL lead] Campagnes de nutrition
+title: En savoir plus sur la création et l’exécution des campagnes [!UICONTROL lead]
 description: Avec l'aide de personnes, vous pouvez écouter les besoins des individus et répondre avec du contenu pertinent tout au long de leur parcours client unique. Apprenez-en plus sur les programmes de formation, leur fonctionnement et les étapes de la réussite.
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Découvrez comment créer et exécuter [!UICONTROL lead] Campagnes de nutrition
+# En savoir plus sur la création et l’exécution des campagnes [!UICONTROL lead]
 
-Avec [!UICONTROL éducation des personnes], vous pouvez écouter les besoins des individus et répondre avec du contenu pertinent tout au long de leur parcours client unique. Apprenez-en plus sur les programmes de formation, leur fonctionnement et les étapes de la réussite.
+Avec [!UICONTROL personne qui assure la prise en charge], vous pouvez écouter les besoins des individus et répondre avec du contenu pertinent tout au long de leur parcours d’achat unique. Apprenez-en plus sur les programmes de formation, leur fonctionnement et les étapes de la réussite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}

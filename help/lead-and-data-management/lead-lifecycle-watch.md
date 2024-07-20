@@ -1,6 +1,6 @@
 ---
 title: Comment créer un programme de cycle de vie des personnes
-description: Créez un [!UICONTROL cycle de vie de la personne] qui effectue le suivi de vos pistes à l’aide des états du programme et agit sur ces pistes qui sont prêtes à être vendues.
+description: Créez un programme [!UICONTROL person lifecycle] qui effectue le suivi de vos pistes à l’aide des statuts de programme et agit sur les pistes prêtes à être vendues.
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Comment créer un programme de cycle de vie des personnes
 
-Créez un [!UICONTROL cycle de vie de la personne] qui effectue le suivi de vos pistes à l’aide des états du programme et agit sur ces pistes qui sont prêtes à être vendues.
+Créez un programme [!UICONTROL person lifecycle] qui effectue le suivi de vos pistes à l’aide des statuts de programme et agit sur les pistes prêtes à être vendues.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

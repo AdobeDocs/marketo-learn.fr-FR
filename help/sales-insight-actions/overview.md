@@ -1,6 +1,6 @@
 ---
 title: Tutorials d’actions d’aperçu commercial
-description: Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
+description: Utilisez les [!UICONTROL actions d’aperçu des ventes] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
+Utilisez les [!UICONTROL actions d’aperçu des ventes] pour accélérer les efforts de prospection grâce à des outils d’intelligence et d’engagement optimisés par le marketing ensemble dans un seul workflow.
 
 ## Tutorials en vedette {#featured-tutorials}
 
@@ -25,7 +25,7 @@ Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les eff
 <tr>
 <td>
 <a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="image miniature pour l’aperçu des actions Sales Insight" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Présentation des actions de Sales Insight</strong></a></div>
+<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Présentation des actions d’aperçu des ventes</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="Image miniature pour accéder à votre instance d’actions Sales Insight" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
@@ -44,11 +44,11 @@ Utilisation [!UICONTROL Actions d’aperçu commercial] pour accélérer les eff
 <tr>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="image miniature pour la présentation de la fonctionnalité d’actions Sales Insight" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Présentation de la fonction Actions d’aperçu des ventes</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Présentation de la fonctionnalité d’actions d’aperçu des ventes</strong></a></div>
 <p><em>Accélérez les efforts de prospection grâce à des outils d’intelligence et d’engagement basés sur le marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="image miniature pour [!DNL Sales Insight Actions] Guide d’intégration des utilisateurs" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="image miniature du guide d’intégration de l’utilisateur [!DNL Sales Insight Actions]" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
 <div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guide d’intégration des utilisateurs</strong></a></div>
 <p><em>Pour commencer, les nouveaux utilisateurs doivent suivre les étapes suivantes.</em></p>
 </td>

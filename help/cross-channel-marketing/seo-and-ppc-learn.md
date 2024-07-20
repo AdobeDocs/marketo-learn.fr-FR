@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur l’optimisation de vos efforts d’optimisation du référencement avec [!DNL Marketo]
+title: En savoir plus sur l’optimisation de vos efforts d’optimisation pour les moteurs de recherche avec  [!DNL Marketo]
 description: Votre site web se perd-il dans des centaines de résultats de recherche ? Découvrez comment accroître la visibilité de votre marque en améliorant vos stratégies d’optimisation du moteur de recherche et de PC.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# En savoir plus sur l’optimisation de vos efforts d’optimisation du référencement avec [!DNL Marketo]
+# Découvrez comment optimiser vos efforts d’optimisation du référencement avec [!DNL Marketo]
 
 Votre site web se perd-il dans des centaines de résultats de recherche ? Découvrez comment accroître la visibilité de votre marque en améliorant vos stratégies d’optimisation du moteur de recherche et de PC.
 

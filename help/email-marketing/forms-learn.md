@@ -1,6 +1,6 @@
 ---
 title: En savoir plus sur la création et la modification de formulaires
-description: Utilisation [!DNL Marketo forms] pour capturer progressivement les données sur les personnes lorsque des prospects visitent votre site web.
+description: Utilisez  [!DNL Marketo forms]  pour capturer progressivement les données sur les personnes lorsque des prospects visitent votre site web.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # En savoir plus sur la création et la modification de formulaires
 
-Utilisation [!DNL Marketo forms] pour capturer progressivement les données sur les personnes lorsque des prospects visitent votre site web.
+Utilisez [!DNL Marketo forms] pour capturer progressivement les données sur les personnes lorsque des prospects visitent votre site web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

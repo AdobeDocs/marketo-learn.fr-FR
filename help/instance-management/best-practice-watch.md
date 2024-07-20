@@ -1,5 +1,5 @@
 ---
-title: Utilisation [!DNL Marketo] Bonnes pratiques relatives aux instances et aux programmes
+title: Utilisation de l'instance  [!DNL Marketo] et des bonnes pratiques relatives au programme
 description: Découvrez comment mettre en oeuvre les bonnes pratiques d’instance et de programme proposés par Marketo dans Marketo.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Utilisation [!DNL Marketo] Bonnes pratiques relatives aux instances et aux programmes
+# Utilisation de l’instance [!DNL Marketo] et des bonnes pratiques du programme
 
 Découvrez comment mettre en oeuvre les bonnes pratiques d’instance et de programme proposés par Marketo dans Marketo.
 

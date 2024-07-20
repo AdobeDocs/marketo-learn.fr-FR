@@ -1,6 +1,6 @@
 ---
 title: Comment intégrer le marketing mobile à Marketo
-description: Découvrez comment créer des personnages d’acheteurs, définir des indicateurs de performance clés, déterminer votre cadence de communication, utiliser [!DNL Marketo’s] Calendrier marketing, et plus encore pour améliorer votre stratégie marketing mobile.
+description: Découvrez comment créer des personnages d’acheteurs, définir des indicateurs de performance clés, déterminer votre cadence de communication, utiliser  [!DNL Marketo’s] Calendrier marketing, etc. pour améliorer votre stratégie marketing mobile.
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Intégration du marketing mobile à Marketo
 
-Découvrez comment créer des personnages d’acheteurs, définir des indicateurs de performance clés, déterminer votre cadence de communication, utiliser le [!DNL Marketo] Calendrier marketing, et plus encore pour améliorer votre stratégie marketing mobile.
+Découvrez comment créer des personnages d’acheteurs, définir des indicateurs de performance clés, déterminer votre cadence de communication, utiliser le calendrier marketing [!DNL Marketo] et bien plus encore pour améliorer votre stratégie marketing mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

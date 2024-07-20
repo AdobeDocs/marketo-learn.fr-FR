@@ -20,5 +20,5 @@ Accélérez les efforts de prospection grâce à des outils d’intelligence et 
 
 ## Vidéos connexes
 
-* [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Accès à [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Configurer la journalisation de l’activité de vente à [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Accès À Votre  [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

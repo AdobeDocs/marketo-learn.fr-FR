@@ -14,7 +14,7 @@ ht-degree: 9%
 # [!DNL Marketo Engage] tutoriels {#tutorials}
 
 + [Tutoriels [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
-+ Principes fondamentaux {#fundamentals}
++ Notions fondamentales {#fundamentals}
    + [Objectifs et stratégie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Structure organisationnelle](/help/fundamentals/organizational-structure-learn.md)
    + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour la création de programmes de base](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
-   + [Mise en oeuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implémentation d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
@@ -36,7 +36,7 @@ ht-degree: 9%
       + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
       + [Utiliser la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Programmes d&#39;engagement](/help/programs/engagement-programs.md)
-   + Cartes d’engagement {#engagement-maps}
+   + Mappages d’engagement {#engagement-maps}
       + [Présentation de la carte des engagements](/help/engagement-maps/engagement-map-overview.md)
       + [Campagnes imbriquées d’une carte d’engagement](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Détection et résolution des erreurs de mappage d’engagement](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
@@ -58,7 +58,7 @@ ht-degree: 9%
    + [Présentation détaillée des emails déclenchés](/help/email-marketing/triggered-email-watch.md)
    + [Prise en charge des pistes](/help/email-marketing/lead-nuturing-learn.md)
    + [Contenu dynamique et prédictif](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtrage des activités de robots de messagerie - Configuration](/help/filtering-email-bot-activities/setup.md)
+   + [Filtrage des activités de robots de messagerie électronique - Configuration](/help/filtering-email-bot-activities/setup.md)
 + Marketing cross-canal {#cross-channel-marketing}
    + [Présentation de Forms](/help/email-marketing/forms-watch.md)
    + [Intégration du marketing mobile](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -80,7 +80,7 @@ ht-degree: 9%
    + [Gestion des agents](/help/dynamic-chat/agent-management.md)
    + [Gestion des dialogues](/help/dynamic-chat/dialogue-management.md)
    + [Incorporer le PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
-   + [Recherche dans le Concepteur de flux](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Recherche dans le Designer de diffusion](/help/dynamic-chat/search-in-stream-designer.md)
    + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Prévisualisation des dialogues](/help/dynamic-chat/dialogue-preview.md)
    + [Mondialisation du contenu statique](/help/dynamic-chat/globalization-of-static-content.md)
@@ -92,11 +92,11 @@ ht-degree: 9%
    + [Réservations des réunions](/help/dynamic-chat/meeting-booking.md)
    + [Conduire les conversations optimisées par GenAI](/help/dynamic-chat/gen-ai-features.md)
    + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
-+ Actions d’aperçu commercial {#sales-insight-actions}
++ Actions d’aperçu des ventes {#sales-insight-actions}
    + [Vue d’ensemble](/help/sales-insight-actions/overview.md)
    + [Présentation des actions d’aperçu des ventes](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Accès à votre instance d’actions Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Configuration de la journalisation des activités de vente sur [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [Configuration de la journalisation de l’activité de vente sur  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Gestion des leads et des données {#lead-and-data-management}
    + [Score de piste/personne](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Présentation de la notation des pistes/personnes](/help/lead-and-data-management/lead-scoring-watch.md)
@@ -119,8 +119,8 @@ ht-degree: 9%
    + [Concevoir un webinaire interactif efficace](/help/events/design-an-effective-interactive-webinar.md)
    + [Diffusion d’événements de webinaires interactifs](/help/events/interactive-webinars-event-delivery.md)
    + [Webinaires interactifs Informations et actions sur les événements de publication](/help/events/interactive-webinars-post-event-insights-and-actions.md)
-+ Rapports et analyses {#reporting}
++ Création de rapports et analyses {#reporting}
    + [Rapports et analyses](/help/reporting/reporting-and-analytics.md)
    + [Rapports clés](/help/reporting/key-reports.md)
 + Intégrations {#integrations}
-   + [Marketo avec Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo avec Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)

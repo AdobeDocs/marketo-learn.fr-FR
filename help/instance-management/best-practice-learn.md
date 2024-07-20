@@ -1,6 +1,6 @@
 ---
-title: En savoir plus sur l’utilisation [!DNL Marketo] Bonnes pratiques relatives aux instances et aux programmes
-description: Suivre [!DNL Marketo's] les bonnes pratiques suggérées pour organiser vos programmes et votre instance peuvent vous aider, ainsi que vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et vous aider à rendre vos rapports plus précis.
+title: En savoir plus sur l'utilisation de l'instance  [!DNL Marketo] et des bonnes pratiques relatives au programme
+description: Suivez les  [!DNL Marketo's] bonnes pratiques suggérées pour organiser vos programmes et votre instance pour vous aider, ainsi que vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et pour rendre vos rapports plus précis.
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# En savoir plus sur l’utilisation [!DNL Marketo] Bonnes pratiques relatives aux instances et aux programmes
+# En savoir plus sur l&#39;utilisation de l&#39;instance [!DNL Marketo] et des bonnes pratiques relatives au programme
 
-Suivre [!DNL Marketo's] les bonnes pratiques suggérées pour organiser vos programmes et votre instance peuvent vous aider, ainsi que vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et vous aider à rendre vos rapports plus précis.
+Suivez [!DNL Marketo's] suggestions de bonnes pratiques pour organiser vos programmes et votre instance pour vous aider, ainsi que vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et pour rendre vos rapports plus précis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

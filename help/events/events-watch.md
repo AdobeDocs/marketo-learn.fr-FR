@@ -9,7 +9,7 @@ exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
 feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Découvrez comment créer un programme d’événement de salons professionnels 
 
 Pour plus d’informations sur la création d’un programme d’événement, voir le guide produit :
 
-* [Documentation Créer un programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Créer une documentation sur le programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
