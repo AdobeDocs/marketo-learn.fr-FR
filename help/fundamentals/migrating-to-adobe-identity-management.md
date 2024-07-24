@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
 workflow-type: tm+mt
 source-wordcount: '1070'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Vous trouverez plus d’aide sur cette rubrique pour les administrateurs de Mark
 
 Vous pouvez modifier la date de migration dans **Admin** > **Console de migration** > **Prémigration** pour mieux l’adapter à votre calendrier interne. En savoir plus sur la replanification et les limites de la [modification de la date de migration](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-* Envoyez un e-mail aux administrateurs système.
+#### Envoi d’un courrier électronique aux administrateurs système {#send-an-email-to-system-admin}
 
 Vous trouverez ci-dessous un exemple de courrier électronique que vous pouvez envoyer aux administrateurs système. En règle générale, votre service informatique gère toutes vos licences d’Adobe.
 
@@ -90,7 +90,7 @@ Cordialement,
 
 `---------------------------------------------------`
 
-* Envoyez un e-mail aux utilisateurs Marketo Engage.
+#### Envoi d’un courrier électronique à des utilisateurs Marketo Engage {#send-an-email-to-marketo-engage-users}
 
 Vous trouverez ci-dessous un exemple de courrier électronique que vous pouvez utiliser pour annoncer la migration à venir vers vos utilisateurs Marketo Engage qui ne disposent pas de privilèges d’administrateur.
 
