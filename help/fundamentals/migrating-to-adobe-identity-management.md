@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7bc386aabf05519f2220241f2925955820d40a3e
+source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Pour vous assurer que votre organisation peut migrer Adobe Marketo Engage vers A
 
 Dans la vidéo ci-dessous, l’équipe de gestion des produits du Marketo Engage vous guide tout au long du parcours de migration et vous indique à quoi vous attendre.
 
-<iframe title="Lecteur Adobe Video Publishing Cloud" width="854" height="480" src="https://video.tv.adobe.com/v/3430920t3/?t=170frameborder=&quot;0&quot;" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
 
-Plus d’aide sur cette rubrique pour les administrateurs de Marketo Engage :
+Vous trouverez plus d’aide sur cette rubrique pour les administrateurs de Marketo Engage dans les articles d’aide suivants :
 
 * [Liste de contrôle de configuration de l’utilisateur](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
