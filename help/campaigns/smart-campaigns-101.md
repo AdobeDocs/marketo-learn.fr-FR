@@ -1,7 +1,7 @@
 ---
-title: Campagnes intelligentes 101
+title: Campagnes intelligentes 101
 description: Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
-short-description: Si Marketo Engage est une voiture, la campagne dynamique est son moteur. Les campagnes intelligentes peuvent faire plus que vous ne pouvez l’imaginer et il est facile de commencer à les utiliser.
+short-description: Si l’on considère que Marketo Engage est une voiture, alors la campagne intelligente est son moteur. Les campagnes intelligentes, simples d’utilisation, peuvent faire bien plus que vous ne pouvez l’imaginer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,18 +13,18 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 41%
 
 ---
 
-# Campagnes intelligentes 101
+# Campagnes intelligentes 101
 
 Les campagnes intelligentes sont le moteur de Marketo. Outre l’utilisation de campagnes intelligentes pour envoyer des emails et des programmes, vous pouvez utiliser des campagnes intelligentes pour divers cas d’utilisation. Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
-## Ressources complémentaires
+## Ressources supplémentaires
 
 **Documentation :**
 
