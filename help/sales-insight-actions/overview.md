@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 15a81dde3b410827d93466595bcf41a5aa8ce58f
+source-git-commit: fa58833852b94a41441f39433f2d3ba5c05fa04c
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Utilisez les [!UICONTROL actions d’aperçu des ventes] pour accélérer les ef
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le [ package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le [package Marketo Sales Insight](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 ## Tutorials en vedette {#featured-tutorials}
 
