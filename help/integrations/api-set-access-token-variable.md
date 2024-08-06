@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: dfe4f1d9737cb0c69bbd96aedf6c61953315fa9b
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -36,8 +36,10 @@ Découvrez comment configurer l’application Postman et utiliser les variables 
 
 * Script JS pour récupérer access_token du corps de la réponse (places sous l’onglet Scripts: ) :
 
-`var jsonData = pm.response.json();
-pm.environment.set("access_token", jsonData.access_token);`
+```
+var jsonData = pm.response.json();
+pm.environment.set("access_token", jsonData.access_token);
+```
 
 * [Documentation pour les développeurs Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
