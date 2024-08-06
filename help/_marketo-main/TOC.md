@@ -3,15 +3,15 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '381'
+ht-degree: 11%
 
 ---
 
 
-# [!DNL Marketo Engage] tutoriels {#tutorials}
+# Tutoriels [!DNL Marketo Engage] {#tutorials}
 
 + [Tutoriels [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
 + Notions fondamentales {#fundamentals}
@@ -26,10 +26,10 @@ ht-degree: 9%
    + [Bonnes pratiques pour la création de programmes de base](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
    + [Implémentation d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=fr)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
-   + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
+   + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
    + [Programmes de messagerie électronique](/help/programs/email-programs.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
    + Programmes par défaut {#default-programs}
@@ -123,4 +123,5 @@ ht-degree: 9%
    + [Rapports et analyses](/help/reporting/reporting-and-analytics.md)
    + [Rapports clés](/help/reporting/key-reports.md)
 + Intégrations {#integrations}
-   + [Marketo avec Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo avec Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=fr)
+   + [Aide de l’API - Comment définir le jeton d’accès dans une variable](/help/integrations/api-set-access-token-variable.md)
