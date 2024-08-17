@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 17c1894d79f1e5c718409e64d6d34fc1359e0960
+source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,13 @@ Ce tutoriel vous aidera à parcourir la migration afin de commencer à gérer Ad
 
 Pour vous assurer que votre organisation peut migrer Adobe Marketo Engage vers Adobe Admin Console, nous vous recommandons de suivre la liste de contrôle ci-dessous pour gérer les modifications à venir.
 
-### 1. Identifiez le ou les administrateurs système et discutez des actions qu’ils peuvent avoir à entreprendre. {#identify-your-system-administrators}
+### 1. Identifiez votre ou vos administrateurs système et votre équipe informatique et discutez des actions qu’ils peuvent avoir à entreprendre. {#identify-your-system-administrators}
 
 * Si vous ne savez pas qui sont les administrateurs système au sein de votre organisation, contactez votre équipe de compte d’Adobe ou contactez l’assistance Adobe `marketocares@marketo.com`.
 
 * Confirmez le Adobe Admin Console (ou l’organisation d’Adobe) vers lequel vos abonnements de Marketo Engage seront migrés. Vous disposez probablement d’un Adobe Admin Console pour Dynamic Chat, un outil d’automatisation des conversations natif en Marketo Engage. Les abonnements du Marketo Engage doivent être déployés dans la même organisation que [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
+
+* Collaborez avec votre équipe informatique pour placer sur la liste autorisée tous les domaines d’Adobe répertoriés [ en haut de cet article ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} afin d’éviter toute interruption de l’accès des Marketo Engage après la migration vers Adobe Identity.
 
 * **Facultatif :** [Mise en oeuvre de l’authentification unique (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} avant la migration des utilisateurs.
 
