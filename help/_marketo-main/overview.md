@@ -3,10 +3,10 @@ title: Tutoriels Marketo Engage
 description: Regardez des tutoriels vidéo sur [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: c7665e7c82e030f5bc21fa9c8845a75fc47f8483
+source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 21%
+ht-degree: 17%
 
 ---
 
@@ -25,15 +25,12 @@ Parcourez notre bibliothèque de tutoriels et profitez pleinement de [!DNL Marke
 ## Nouveautés {#whats-new}
 
 * [Migration vers Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Découvrez comment naviguer dans la migration Adobe Identity Management pour commencer à gérer Adobe Marketo Engage avec d&#39;autres comptes d&#39;Adobe et produits pour vos utilisateurs dans un emplacement central._
 
-_Découvrez comment naviguer dans la migration Adobe Identity Management pour commencer à gérer Adobe Marketo Engage avec d&#39;autres comptes d&#39;Adobe et produits pour vos utilisateurs dans un emplacement central._
-
-* [Informations et actions sur des événements de webinaires interactifs passés](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-
+* [Webinaires interactifs Post Event Insights and Actions](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
 Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs.
 
 * [Marketo Comment API Vidéo - Comment définir le jeton d’accès dans une variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-
 Découvrez comment configurer l’application Postman et comment utiliser des variables pour enregistrer des données dans la variable à des fins de réutilisation.
 
 ## Les vidéos les plus populaires {#most-popular-videos}
