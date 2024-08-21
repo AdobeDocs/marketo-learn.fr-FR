@@ -3,10 +3,10 @@ title: Tutoriels Marketo Engage
 description: Regardez des tutoriels vidéo sur [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
+source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -27,11 +27,11 @@ Parcourez notre bibliothèque de tutoriels et profitez pleinement de [!DNL Marke
 * [Migration vers Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Découvrez comment naviguer dans la migration Adobe Identity Management pour commencer à gérer Adobe Marketo Engage avec d&#39;autres comptes d&#39;Adobe et produits pour vos utilisateurs dans un emplacement central._
 
-* [Webinaires interactifs Post Event Insights and Actions](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs.
+* [Informations et actions sur des événements de webinaires interactifs passés](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
+  _Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs._
 
-* [Marketo Comment API Vidéo - Comment définir le jeton d’accès dans une variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-Découvrez comment configurer l’application Postman et comment utiliser des variables pour enregistrer des données dans la variable à des fins de réutilisation.
+* [Marketo Comment API Vidéo - Comment définir le jeton d’accès dans une variable](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
+  _Découvrez comment configurer l’application Postman et comment utiliser des variables pour enregistrer des données dans la variable à des fins de réutilisation._
 
 ## Les vidéos les plus populaires {#most-popular-videos}
 
