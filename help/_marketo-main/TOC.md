@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 11%
+source-wordcount: '383'
+ht-degree: 10%
 
 ---
 
@@ -103,8 +103,8 @@ ht-degree: 11%
    + [Centre d&#39;inscription](/help/lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d&#39;inscription](/help/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
-   + [Prise en main de la synchronisation Salesforce](/help/integrations/salesforce-sync-setup.md)
-   + [Prise en main de la synchronisation Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Prise en main de la synchronisation avec Salesforce](/help/integrations/salesforce-sync-setup.md)
+   + [Prise en main de la synchronisation avec Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Cycle de vie des leads](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Présentation du cycle de vie des pistes](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Événements {#events}
@@ -119,6 +119,7 @@ ht-degree: 11%
    + [Concevoir un webinaire interactif efficace](/help/events/design-an-effective-interactive-webinar.md)
    + [Diffusion d’événements de webinaires interactifs](/help/events/interactive-webinars-event-delivery.md)
    + [Webinaires interactifs Informations et actions sur les événements de publication](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [Webinaires On-Demand](/help/events/on-demand-webinars.md)
 + Création de rapports et analyses {#reporting}
    + [Rapports et analyses](/help/reporting/reporting-and-analytics.md)
    + [Rapports clés](/help/reporting/key-reports.md)
