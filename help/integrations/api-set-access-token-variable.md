@@ -3,22 +3,22 @@ title: Vidéo de présentation de l’API Marketo - Comment définir le jeton d�
 description: Découvrez comment configurer l’application Postman et comment utiliser des variables pour enregistrer des données dans la variable à des fins de réutilisation.
 feature: REST API
 role: Admin, Developer
-level: Beginner
+level: Advanced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
-source-git-commit: dfe4f1d9737cb0c69bbd96aedf6c61953315fa9b
+exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
-
 # Aide de l’API - Comment définir le jeton d’accès dans une variable
 
-Découvrez comment configurer l’application Postman et utiliser les variables pour enregistrer les données dans la variable à des fins de réutilisation. Vous apprendrez également comment effectuer votre premier appel API REST Marketo Engage pour obtenir le jeton d’accès.
+Découvrez comment configurer l’application Postman et utiliser les variables pour enregistrer les données dans la variable à des fins de réutilisation. Vous apprendrez également à effectuer votre premier appel de l’API REST Marketo Engage pour obtenir le jeton d’accès.
 
 >[!PREREQUISITES]
 >

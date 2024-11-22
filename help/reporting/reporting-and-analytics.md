@@ -9,9 +9,11 @@ jira: KT-13219
 thumbnail: 3419295.jpeg
 exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
-source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
+hide: true
+hidefromtoc: true
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '75'
 ht-degree: 2%
 
 ---
@@ -22,7 +24,7 @@ Découvrez comment naviguer dans la section Analytics et base de données pour e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
-## Ressources complémentaires
+## Ressources supplémentaires
 
 * **Documentation du produit**
 Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
