@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment créer un programme personnalisé d’email de newsletter.. (Les titres ne doivent pas dépasser 60 caractères).
+title: Créer un programme d'email de newsletter personnalisé
 description: Interagissez avec les prospects et les clients de manière rentable en utilisant des newsletters email personnalisées.
 role: User
 level: Beginner
@@ -7,14 +7,14 @@ jira: KT-10751
 thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Découvrez comment créer un programme personnalisé d’email de newsletter.. (Les titres ne doivent pas dépasser 60 caractères).
+# Créer un programme d&#39;email de newsletter personnalisé
 
 Interagissez avec les prospects et les clients de manière rentable en utilisant des newsletters email personnalisées.
 
