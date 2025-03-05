@@ -3,10 +3,10 @@ title: Tutoriels Marketo Engage
 description: Regardez des tutoriels vidéo sur  [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 19%
 
 ---
 
@@ -23,14 +23,14 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 
 ## Nouveautés {#whats-new}
 
+* [Bonnes pratiques pour implémenter le chat en direct](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+  _Découvrez les bonnes pratiques à suivre lorsque vous implémentez la fonctionnalité de chat en direct dans Dynamic Chat._
+
 * [Présentation des webinaires interactifs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _En savoir plus sur les webinaires interactifs, la plateforme de webinaires intégrée à Marketo Engage._
 
 * [Migration vers Adobe Identity Management ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Découvrez comment parcourir la migration d’Adobe Identity Management afin de commencer à gérer Adobe Marketo Engage ainsi que d’autres comptes et produits Adobe pour vos utilisateurs et utilisatrices dans un emplacement centralisé._
-
-* [Informations et actions sur des événements de webinaires interactifs passés](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-  _Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs._
 
 ## Vidéos les plus populaires {#most-popular-videos}
 
