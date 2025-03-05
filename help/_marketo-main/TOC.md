@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 9%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 9%
    + [Marketing social](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ {#dynamic-chat} du Dynamic Chat
++ {#dynamic-chat} Dynamic Chat
    + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Visite guidée du produit [2023]](/help/dynamic-chat/product-tour.md)
    + [Visite guidée du produit [2022]](/help/dynamic-chat/product-tour-2022.md)
@@ -75,7 +75,7 @@ ht-degree: 9%
    + [Gestion des utilisateurs](/help/dynamic-chat/user-management.md)
    + [Gestion des agents](/help/dynamic-chat/agent-management.md)
    + [Gestion des boîtes de dialogue](/help/dynamic-chat/dialogue-management.md)
-   + [Incorporer le mot de PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
+   + [Incorporer PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
    + [Recherche dans Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Aperçu de la boîte de dialogue](/help/dynamic-chat/dialogue-preview.md)
@@ -108,6 +108,7 @@ ht-degree: 9%
    + [Créer un programme d&#39;événement](/help/events/events-learn.md)
    + [Webinaires](/help/events/webinar-learn.md)
    + [Présentation des webinaires](/help/events/webinar-watch.md)
+   + [Présentation des webinaires interactifs](/help/events/interactive-webinars-overview.md)
    + [Webinaires interactifs Gestion des utilisateurs et des licences](/help/events/interactive-webinars-user-and-license-management.md)
    + [Webinaires interactifs - Création de programme d’événement](/help/events/interactive-webinars-event-program-creation.md)
    + [Présentation du programme d’événement des webinaires interactifs](/help/events/interactive-webinars-event-program-overview.md)

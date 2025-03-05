@@ -1,18 +1,18 @@
 ---
 title: Tutoriels Marketo Engage
-description: Regardez des tutoriels vidéo sur [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
+description: Regardez des tutoriels vidéo sur  [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 21%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
 # Tutoriels [!DNL Marketo Engage]
 
-Parcourez notre bibliothèque de tutoriels et profitez pleinement de [!DNL Marketo Engage]. Ces tutoriels peuvent vous aider à compléter la [[!DNL Marketo] documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} pour vous aider à mieux comprendre les fonctionnalités d’automatisation du marketing.
+Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL Marketo Engage]. Ces tutoriels peuvent compléter la [[!DNL Marketo] documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} afin de vous aider à mieux comprendre les fonctionnalités d’automatisation du marketing.
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -21,19 +21,18 @@ Parcourez notre bibliothèque de tutoriels et profitez pleinement de [!DNL Marke
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div> -->
 
-
 ## Nouveautés {#whats-new}
 
-* [Migration vers Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Découvrez comment naviguer dans la migration Adobe Identity Management pour commencer à gérer Adobe Marketo Engage avec d&#39;autres comptes d&#39;Adobe et produits pour vos utilisateurs dans un emplacement central._
+* [Présentation des webinaires interactifs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+  _En savoir plus sur les webinaires interactifs, la plateforme de webinaires intégrée à Marketo Engage._
+
+* [Migration vers Adobe Identity Management ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Découvrez comment parcourir la migration d’Adobe Identity Management afin de commencer à gérer Adobe Marketo Engage ainsi que d’autres comptes et produits Adobe pour vos utilisateurs et utilisatrices dans un emplacement centralisé._
 
 * [Informations et actions sur des événements de webinaires interactifs passés](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
   _Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs._
 
-* [Marketo Comment API Vidéo - Comment définir le jeton d’accès dans une variable](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-  _Découvrez comment configurer l’application Postman et comment utiliser des variables pour enregistrer des données dans la variable à des fins de réutilisation._
-
-## Les vidéos les plus populaires {#most-popular-videos}
+## Vidéos les plus populaires {#most-popular-videos}
 
 <table>
 <tr>
@@ -43,7 +42,7 @@ Parcourez notre bibliothèque de tutoriels et profitez pleinement de [!DNL Marke
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="image miniature pour Conversational Forms" src="assets/tutorials-homepage-2.png"></a>
-<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong> </strong></a></div>
+<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>Forms de conversation</strong></a></div>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"><img alt="Présentation des programmes et campagnes Marketo" src="assets/tutorials-homepage-3.png" /></a>
