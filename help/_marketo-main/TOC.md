@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 9%
+source-wordcount: '454'
+ht-degree: 10%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 9%
 # Tutoriels [!DNL Marketo Engage] {#tutorials}
 
 + [Tutoriels [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
-+ Notions fondamentales {#fundamentals}
++ Principes fondamentaux {#fundamentals}
    + [Objectifs et stratégie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Structure organisationnelle](/help/fundamentals/organizational-structure-learn.md)
    + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
@@ -30,14 +30,14 @@ ht-degree: 9%
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
-   + {#default-programs} des programmes par défaut
+   + Programmes par défaut {#default-programs}
       + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
       + [Tirer parti de la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + Mappages d’engagement {#engagement-maps}
+   + Cartes d’engagement {#engagement-maps}
       + [Aperçu de la carte de l’engagement](/help/engagement-maps/engagement-map-overview.md)
       + [Campagnes imbriquées de carte d’engagement](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Détection et résolution des erreurs de carte d’engagement](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ {#email-marketing} de marketing par e-mail
++ Marketing par e-mail {#email-marketing}
    + [E-mail planifié](/help/email-marketing/scheduled-email-learn.md)
    + [Présentation programmée des e-mails](/help/email-marketing/scheduled-email-watch.md)
    + [Newsletter personnalisée](/help/email-marketing/personalized-newsletter-learn.md)
@@ -56,7 +56,7 @@ ht-degree: 9%
    + [Soutien du lead](/help/email-marketing/lead-nuturing-learn.md)
    + [Contenu dynamique et prédictif](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [Filtrage des activités de robots d’e-mail - Configuration](/help/filtering-email-bot-activities/setup.md)
-+ {#cross-channel-marketing} marketing cross-canal
++ Marketing cross-canal {#cross-channel-marketing}
    + [Présentation de Forms](/help/email-marketing/forms-watch.md)
    + [Intégrer le marketing mobile](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [Présentation du marketing mobile](/help/cross-channel-marketing/mobile-marketing-watch.md)
@@ -65,14 +65,14 @@ ht-degree: 9%
    + [Marketing social](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ {#dynamic-chat} Dynamic Chat
++ Dynamic Chat {#dynamic-chat}
    + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Visite guidée du produit [2023]](/help/dynamic-chat/product-tour.md)
    + [Visite guidée du produit [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [Activation dans 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [Installation et installation](/help/dynamic-chat/setup.md)
    + [Intégration de Marketo](/help/dynamic-chat/marketo-integration.md)
-   + [Gestion des utilisateurs](/help/dynamic-chat/user-management.md)
+   + [Gestion des utilisateurs et utilisatrices](/help/dynamic-chat/user-management.md)
    + [Gestion des agents](/help/dynamic-chat/agent-management.md)
    + [Gestion des boîtes de dialogue](/help/dynamic-chat/dialogue-management.md)
    + [Incorporer PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
@@ -89,12 +89,12 @@ ht-degree: 9%
    + [Réservation de réunion](/help/dynamic-chat/meeting-booking.md)
    + [Diriger des conversations optimisées par GenAI](/help/dynamic-chat/gen-ai-features.md)
    + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
-+ {#sales-insight-actions} des actions Sales Insight
++ Actions Sales Insight {#sales-insight-actions}
    + [Vue d’ensemble](/help/sales-insight-actions/overview.md)
-   + [Présentation des actions Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Présentation des actions de Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Accès à votre instance d’actions Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurez la journalisation des activités de vente sur  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ {#lead-and-data-management} de gestion des leads et des données
++ Lead et gestion des données {#lead-and-data-management}
    + [Notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Présentation de la notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centre d’abonnements](/help/lead-and-data-management/subscription-center-learn.md)
@@ -123,6 +123,7 @@ ht-degree: 9%
 + Intégrations {#integrations}
    + [Marketo avec Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=fr)
    + [Aide de l’API - Comment définir le jeton d’accès dans une variable](/help/integrations/api-set-access-token-variable.md)
+   + [Déclenchement d’une campagne intelligente dans Marketo Engage à l’aide de l’API REST et de jetons](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Gestion des doublons {#manage-duplicates}
    + [Présentation de la gestion des doublons](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Comprendre pourquoi des doublons se produisent](/help/managing-duplicates/why-duplicates-occur.md)
