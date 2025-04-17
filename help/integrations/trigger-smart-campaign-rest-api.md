@@ -4,7 +4,7 @@ description: Découvrez comment déclencher une campagne intelligente dans Marke
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Si vous utilisez un jeton pour injecter dynamiquement une URL d’image (par exemple, `{{my.WebinarImage}}`), vous devez encapsuler le jeton dans une balise d’image HTML :
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Si vous utilisez un jeton pour injecter dynamiquement une URL d’image (par exemple, `{{my.WebinarImage}}`), vous devez encapsuler le jeton dans une balise d’image HTML :
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Enagage **ne rendra pas**’image à moins que le jeton ne soit placé dans une balise d’image valide.
 
