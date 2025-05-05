@@ -47,7 +47,7 @@ Avant de commencer, téléchargez le [modèle Journal des erreurs de synchronisa
 
 ## Et après ?
 
-**Identifier les codes d’erreur :** Pour comprendre les codes d’erreur, recherchez les descriptions dans la documentation des développeurs [ ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} et recherchez les étapes suivantes courantes pour résoudre les erreurs.
+**Identifier les codes d’erreur :** Pour comprendre les codes d’erreur, recherchez les descriptions dans la documentation des développeurs [&#128279;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} et recherchez les étapes suivantes courantes pour résoudre les erreurs.
 
 ## Auteurs
 
