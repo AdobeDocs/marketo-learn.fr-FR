@@ -15,8 +15,8 @@ Les programmes représentent une initiative marketing unique. Découvrez comment
 
 Pour plus d’informations, consultez les guides produit connexes :
 
-* [Présentation de la documentation sur les programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Présentation de la documentation Smart Campaigns](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Présentation de la documentation sur les programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=fr)
+* [Présentation de la documentation Smart Campaigns](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=fr)
 
 Apprenez à vos pairs à utiliser les campagnes intelligentes :
 

@@ -24,4 +24,4 @@ Découvrez comment créer un programme d’événement de salons professionnels 
 
 Pour plus d’informations sur la création d’un programme d’événement, voir le guide produit :
 
-* [Créer une documentation sur le programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Créer une documentation sur le programme d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=fr)

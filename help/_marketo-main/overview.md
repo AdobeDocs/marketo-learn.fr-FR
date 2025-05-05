@@ -23,13 +23,13 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 
 ## Nouveautés {#whats-new}
 
-* [Bonnes pratiques pour implémenter le chat en direct](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [Bonnes pratiques pour implémenter le chat en direct](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Découvrez les bonnes pratiques à suivre lorsque vous implémentez la fonctionnalité de chat en direct dans Dynamic Chat._
 
-* [Présentation des webinaires interactifs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [Présentation des webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _En savoir plus sur les webinaires interactifs, la plateforme de webinaires intégrée à Marketo Engage._
 
-* [Migration vers Adobe Identity Management ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [Migration vers Adobe Identity Management ](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Découvrez comment parcourir la migration d’Adobe Identity Management afin de commencer à gérer Adobe Marketo Engage ainsi que d’autres comptes et produits Adobe pour vos utilisateurs et utilisatrices dans un emplacement centralisé._
 
 ## Vidéos les plus populaires {#most-popular-videos}
@@ -41,8 +41,8 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 <div><a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101"><strong>Campagnes intelligentes 101</strong></a></div>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="image miniature pour Conversational Forms" src="assets/tutorials-homepage-2.png"></a>
-<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>Forms de conversation</strong></a></div>
+<a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="image miniature pour Conversational Forms" src="assets/tutorials-homepage-2.png"></a>
+<div><a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>Forms de conversation</strong></a></div>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"><img alt="Présentation des programmes et campagnes Marketo" src="assets/tutorials-homepage-3.png" /></a>

@@ -23,4 +23,4 @@ ht-degree: 0%
 + [Développement d’un guide de gouvernance d’instance](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Mappage visuel de votre tech stack marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Processus d’assurance qualité de prélancement du programme](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Tutorials Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Tutorials Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr)

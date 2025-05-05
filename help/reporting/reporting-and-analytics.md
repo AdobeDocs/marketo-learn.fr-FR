@@ -27,7 +27,7 @@ Découvrez comment naviguer dans la section Analytics et base de données pour e
 ## Ressources supplémentaires
 
 * **Documentation du produit**
-Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Découvrez les différents rapports que vous pouvez extraire - [Présentation du reporting](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=fr&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
 * **Article de blog d’expert**
 Apprenez de la championne Chelsea Kiko sur la création de divers rapports - [Reporting dans divers espaces Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

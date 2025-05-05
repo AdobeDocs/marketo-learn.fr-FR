@@ -20,4 +20,4 @@ Un guide pas à pas pour vous aider à lancer votre première boîte de dialogue
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*Remarque : Pour ceux qui ne savent pas comment accéder à [!UICONTROL Dynamic Chat] , [voici une courte vidéo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) pour vous aider à ajouter vous-même ou d&#39;autres utilisateurs à [!UICONTROL Dynamic Chat] .*
+*Remarque : Pour ceux qui ne savent pas comment accéder à [!UICONTROL Dynamic Chat] , [voici une courte vidéo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=fr) pour vous aider à ajouter vous-même ou d&#39;autres utilisateurs à [!UICONTROL Dynamic Chat] .*
