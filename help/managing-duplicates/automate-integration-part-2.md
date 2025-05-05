@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment configurer les mappages de champs, la logique de fusion et la planification pour automatiser la gestion des doublons entre les outils Marketo Engage et iPaaS. Cette vidéo de démonstration du workflow prend l’exemple Vertify .
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453809/?learn=on&enablevpops&captions=fre_fr)

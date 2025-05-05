@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment générer des conversations optimisées par GenAI et permettre à vos visiteurs de poser des questions, d’obtenir des réponses rapides et de générer un résumé de vos conversations. Tirez parti des informations conversationnelles directement dans vos instances Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454473/?learn=on&captions=fre_fr)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Utilisez [!DNL Marketo forms] pour capturer progressivement les données sur les personnes lorsque des prospects visitent votre site web.
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411672/?quality=12&learn=on&captions=fre_fr){transcript=true}

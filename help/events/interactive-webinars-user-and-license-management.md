@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez les autorisations utilisateur pour les webinaires interactifs ainsi que la surveillance de la disponibilité et de la limite d’utilisation des licences pour les licences de webinaire interactif.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446118/?learn=on&captions=fre_fr)

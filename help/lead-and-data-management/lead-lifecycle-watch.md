@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Créez un programme [!UICONTROL person lifecycle] qui effectue le suivi de vos pistes à l’aide des statuts de programme et agit sur les pistes prêtes à être vendues.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412249/?quality=12&learn=on&captions=fre_fr){transcript=true}

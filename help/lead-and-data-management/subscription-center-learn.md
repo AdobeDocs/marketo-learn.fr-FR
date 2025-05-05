@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vous avez du mal à communiquer avec vos abonnés ? Laissez-les vous dire quelles communications ils veulent et à quelle fréquence ils veulent avoir de vos nouvelles. Découvrez comment créer et gérer un centre d’abonnement pour développer une cadence et un processus appropriés.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412229/?quality=12&learn=on&captions=fre_fr){transcript=true}

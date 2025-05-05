@@ -21,4 +21,4 @@ ht-degree: 0%
 Un guide pour vous aider à comprendre toutes les fonctionnalités que vous pouvez exploiter pour gérer tous vos agents à partir d’un seul endroit qui interpelera vos visiteurs web.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447235/?learn=on&captions=fre_fr)

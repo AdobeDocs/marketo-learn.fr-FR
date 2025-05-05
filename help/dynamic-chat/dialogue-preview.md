@@ -20,7 +20,7 @@ ht-degree: 0%
 
 La prévisualisation de votre boîte de dialogue avant la publication est très facile avec la fonctionnalité d’aperçu de dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436850/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

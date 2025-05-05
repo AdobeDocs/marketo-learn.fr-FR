@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment configurer un programme d’événements qui vous permet de créer et de planifier des événements de webinaires interactifs dans Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443414/?learn=on&captions=fre_fr)

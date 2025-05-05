@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Explorez les outils et les conseils permettant de repérer les doublons et de les éviter grâce à des workflows structurés et à des audits périodiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447100/?learn=on&enablevpops&captions=fre_fr)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser [!DNL Marketo] pour capitaliser sur les comportements d’acheteurs en utilisant des campagnes par e-mail déclenchées pour interagir avec des messages opportuns et pertinents.
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411487/?quality=12&learn=on&captions=fre_fr){transcript=true}

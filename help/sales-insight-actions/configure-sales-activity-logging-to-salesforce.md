@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Découvrez comment configurer et consigner les activités d’actions d’aperçu des ventes dans votre compte [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449201/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos connexes
 

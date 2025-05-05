@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment optimiser la délivrabilité des emails grâce aux bonnes pratiques, à l’authentification des emails et à la réputation.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411472/?quality=12&learn=on&captions=fre_fr){transcript=true}

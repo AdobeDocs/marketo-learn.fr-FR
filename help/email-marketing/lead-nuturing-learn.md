@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Avec [!UICONTROL personne qui assure la prise en charge], vous pouvez écouter les besoins des individus et répondre avec du contenu pertinent tout au long de leur parcours d’achat unique. Apprenez-en plus sur les programmes de formation, leur fonctionnement et les étapes de la réussite.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411652/?quality=12&learn=on&captions=fre_fr){transcript=true}

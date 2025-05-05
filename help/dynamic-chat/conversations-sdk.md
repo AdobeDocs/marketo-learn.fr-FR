@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Convertissez tout clic CTA, chargement de page ou toute action du visiteur sur votre page web en conversation engageante avec le SDK Conversations. Voici un guide détaillé à mettre en oeuvre sur votre site web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448864/?learn=on&captions=fre_fr)

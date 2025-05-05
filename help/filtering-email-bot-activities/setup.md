@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Un guide pour vous aider à activer l’identification des activités d’email par des robots et comment filtrer et créer des campagnes à l’exclusion des robots.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445114/?quality=12&learn=on&captions=fre_fr){transcript=true}

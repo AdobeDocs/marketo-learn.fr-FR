@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer un test A/B de courrier électronique dans Marketo afin d’améliorer les performances de votre courrier électronique.
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411453/?quality=12&learn=on&captions=fre_fr){transcript=true}

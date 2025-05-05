@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment créer et mesurer le succès de vos programmes par défaut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424477/?learn=on&captions=fre_fr){transcript=true}

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Cette vidéo présente un aperçu de la manière dont accéder à votre compte [!UICONTROL Actions Sales Insight] pour créer du contenu, configurer votre compte, inviter de nouveaux utilisateurs, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441585/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos connexes
 

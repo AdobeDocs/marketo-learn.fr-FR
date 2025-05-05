@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Diffusez une expérience personnelle et pertinente à chaque visiteur du site web en fonction de son identité et de ses activités. Découvrez la segmentation et le ciblage des visiteurs de votre site web pour créer des expériences plus personnalisées, significatives et attrayantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413416/?quality=12&learn=on&captions=fre_fr){transcript=true}

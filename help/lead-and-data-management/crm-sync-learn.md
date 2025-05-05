@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Grâce à la synchronisation CRM [!DNL Marketo], vous pouvez vous aider à coordonner les activités de marketing et de vente en partageant facilement des informations pertinentes entre [!DNL Marketo] et votre CRM. Découvrez la synchronisation de [!DNL Marketo] avec votre CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412036/?quality=12&learn=on&captions=fre_fr){transcript=true}

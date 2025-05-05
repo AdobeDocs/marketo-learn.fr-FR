@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Savez-vous combien de pistes se trouvent à chaque étape du parcours de l&#39;acheteur et quand les ventes doivent les contacter ? Découvrez comment créer un programme [!UICONTROL de cycle de vie des personnes] qui utilise la notation pour obtenir des informations sur l’emplacement de vos pistes dans leur parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412254/?quality=12&learn=on&captions=fre_fr){transcript=true}

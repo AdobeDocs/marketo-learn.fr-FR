@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Interagissez avec les prospects et les clients de manière rentable en utilisant des newsletters email personnalisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411999/?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment fusionner manuellement les doublons dans la section Base de données, parfaite pour gérer moins d&#39;enregistrements avec précision et contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443652/?learn=on&enablevpops&captions=fre_fr)

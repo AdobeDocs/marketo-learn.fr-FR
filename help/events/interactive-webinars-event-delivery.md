@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment diffuser votre événement de webinaires interactifs de manière optimale pour atteindre votre objectif et impliquer les participants. Assurez-vous que votre contenu génère de l’intérêt afin que vous puissiez solliciter l’intention à l’aide de différents outils d’engagement afin de mieux personnaliser la prise en charge et la segmentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440039/?learn=on&captions=fre_fr)

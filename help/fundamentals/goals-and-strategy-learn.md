@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lorsque tous vos efforts marketing s’inscrivent dans une stratégie qui prend en charge les objectifs de votre entreprise, vous serez en mesure de mieux prouver la valeur de vos programmes et campagnes. Découvrez comment centraliser vos efforts en élaborant vos objectifs marketing et votre stratégie.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413381/?quality=12&learn=on&captions=fre_fr){transcript=true}

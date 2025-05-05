@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment créer, gérer et suivre un programme de messagerie planifié.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412014/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources supplémentaires
 

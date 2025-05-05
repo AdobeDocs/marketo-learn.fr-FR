@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vous ne savez pas comment utiliser au mieux le marketing social ? Découvrez comment accroître efficacement la sensibilisation à la marque et encourager l’engagement de la marque à l’aide de votre canal social.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412041/?quality=12&learn=on&captions=fre_fr){transcript=true}

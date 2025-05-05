@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment configurer et suivre un programme de messagerie sécurisée dans Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412031/?quality=12&learn=on&captions=fre_fr){transcript=true}

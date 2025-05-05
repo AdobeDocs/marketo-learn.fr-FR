@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat] est intégré nativement à [!DNL Marketo Engage], ce qui vous permet d’utiliser le contexte des conversations sur les chatterbots pour recibler ou noter vos prospects.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345044/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

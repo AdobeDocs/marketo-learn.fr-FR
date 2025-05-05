@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Tirez parti de l’engagement en personne dans vos programmes de marketing pour créer des relations, générer de la bonne volonté et gagner la confiance des acheteurs et des clients potentiels.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411682/?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 La conception de conversations ciblées et personnalisées est la clé pour créer une expérience de conversation optimale pour chaque visiteur web. Découvrez comment créer et gérer un dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443791/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

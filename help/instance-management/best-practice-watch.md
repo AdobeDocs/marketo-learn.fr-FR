@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment mettre en oeuvre les bonnes pratiques d’instance et de programme proposés par Marketo dans Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412259/?quality=12&learn=on&captions=fre_fr){transcript=true}

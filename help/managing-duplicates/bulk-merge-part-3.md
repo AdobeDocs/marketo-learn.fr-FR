@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Terminez votre fusion en bloc en réimportant les données nettoyées dans Marketo Engage et en gérant efficacement les doublons avec une campagne opérationnelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452749/?learn=on&enablevpops&captions=fre_fr)

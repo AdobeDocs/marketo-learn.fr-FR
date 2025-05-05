@@ -22,4 +22,4 @@ Désormais, engagez les visiteurs de votre site web immédiatement après qu’i
 
 Dans notre vidéo pas à pas, nous vous guidons tout au long du processus, ce qui facilite la mise en oeuvre de cet outil puissant pour votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443358/?learn=on&captions=fre_fr)

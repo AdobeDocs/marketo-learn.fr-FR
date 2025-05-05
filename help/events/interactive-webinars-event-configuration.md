@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Découvrez comment configurer votre événement de webinaires interactifs avant la diffusion pour l’adapter à l’objectif du webinaire et vous assurer que la diffusion est suffisamment efficace pour impliquer les participants afin de générer de l’intérêt et de solliciter l’intention pour la marque, le produit, les services. etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448986/?learn=on&captions=fre_fr)

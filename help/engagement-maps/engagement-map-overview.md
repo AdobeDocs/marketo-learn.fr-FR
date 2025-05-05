@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment la carte de l’engagement peut augmenter la vitesse de votre campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423304/?learn=on&captions=fre_fr){transcript=true}

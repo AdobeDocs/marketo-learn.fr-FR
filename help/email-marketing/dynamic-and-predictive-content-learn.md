@@ -18,4 +18,4 @@ ht-degree: 0%
 
 La diffusion de contenu pertinent est l’une des idées les plus importantes en marketing. Découvrez comment utiliser Marketo Content AI et comment appliquer du contenu dynamique lors de l’utilisation de Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411448/?quality=12&learn=on&captions=fre_fr){transcript=true}

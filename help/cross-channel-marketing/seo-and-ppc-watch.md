@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Regardez comment mettre en oeuvre des étapes de réussite pour créer des stratégies d’optimisation du référencement et de PC bénéfiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413406/?quality=12&learn=on&captions=fre_fr){transcript=true}

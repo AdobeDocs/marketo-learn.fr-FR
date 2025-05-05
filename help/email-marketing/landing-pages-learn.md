@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Augmentez les conversions en créant et en concevant des landing pages qui intègrent les bonnes pratiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412009/?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Découvrez comment naviguer dans la section Analytics et base de données pour extraire différents rapports d’usine dans Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446422/?learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources supplémentaires
 

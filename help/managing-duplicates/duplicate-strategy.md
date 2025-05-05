@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Récapitulez les principales solutions pour gérer les doublons dans Marketo Engage et choisissez la meilleure solution pour les besoins et les ressources de votre équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436642/?learn=on&enablevpops&captions=fre_fr)

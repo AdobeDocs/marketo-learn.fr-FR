@@ -26,4 +26,4 @@ Cela est préférable pour :
 * S&#39;assurer que vous parlez toujours à des collecteurs de main
 * Offre après remplissage d’un formulaire ou lors d’une conversation automatisée
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452060/?learn=on&captions=fre_fr)

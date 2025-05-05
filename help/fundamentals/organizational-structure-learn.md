@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Pour tirer parti de l’évolution actuelle du paysage du marketing numérique, vous avez besoin d’une équipe capable de répondre aux défis évolutifs auxquels sont confrontés les marketeurs chaque jour. Découvrez comment structurer votre organisation marketing pour répondre aux nouveaux défis, les types de personnes dont vous avez besoin au sein de l’équipe et comment positionner au mieux le marketing pour adapter votre organisation à l’économie de l’engagement.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413391/?quality=12&learn=on&captions=fre_fr){transcript=true}

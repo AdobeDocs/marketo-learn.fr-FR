@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez où trouver des informations détaillées sur les performances et l’engagement de votre événement de webinaires interactifs qui a été livré. Découvrez les actions permettant de segmenter, noter et nourrir les prospects/participants d’une manière personnalisée en fonction des informations et des intentions d’engagement recueillies.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447850/?learn=on&captions=fre_fr)

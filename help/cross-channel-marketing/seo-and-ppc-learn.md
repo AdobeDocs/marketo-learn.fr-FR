@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Votre site web se perd-il dans des centaines de résultats de recherche ? Découvrez comment accroître la visibilité de votre marque en améliorant vos stratégies d’optimisation du moteur de recherche et de PC.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413401/?quality=12&learn=on&captions=fre_fr){transcript=true}

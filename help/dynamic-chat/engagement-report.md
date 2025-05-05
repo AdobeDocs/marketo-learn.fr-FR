@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Désormais, découvrez les tendances de la manière dont vos visiteurs web interagissent avec votre dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437702/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

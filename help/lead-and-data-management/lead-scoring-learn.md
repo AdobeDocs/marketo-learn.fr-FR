@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Améliorez la qualité des pistes fournies par le marketing aux ventes à l’aide d’un programme de notation prospect/personne.  Découvrez la notation prospect/personne, son fonctionnement et les étapes permettant de réaliser ses avantages mesurables.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412244/?quality=12&learn=on&captions=fre_fr){transcript=true}

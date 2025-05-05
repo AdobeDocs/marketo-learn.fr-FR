@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Vous savez peut-être déjà comment créer une boîte de dialogue autre que l&#39;anglais (dans le cas contraire, [cliquez ici](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439216/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Votre message marketing n’atteindra pas vos objectifs si vos emails ne sont pas pris en charge dans les boîtes de réception de vos abonnés. Découvrez comment envoyer des emails aux abonnés qui souhaitent les lire.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411477/?quality=12&learn=on&captions=fre_fr){transcript=true}

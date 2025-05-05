@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Un guide pour vous aider à installer chatbot JavaScript sur votre site web ou page d’entrée et à personnaliser son aspect en fonction de votre marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345021/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Vidéos plus utiles
 

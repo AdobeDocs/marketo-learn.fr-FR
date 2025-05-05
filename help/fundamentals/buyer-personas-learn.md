@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vous souhaitez vous assurer que votre marketing de contenu attire des acheteurs potentiels et génère des pistes ? La création de personnages d’acheteurs vous aidera à déterminer le type de contenu dont vous avez besoin et la manière dont les acheteurs trouveront et consommeront des informations.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413396/?quality=12&learn=on&captions=fre_fr){transcript=true}

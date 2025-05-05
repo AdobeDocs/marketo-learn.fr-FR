@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Découvrez les quatre types de programmes, comment importer des programmes, diriger des programmes de notation par personne et définir des balises de canal. Découvrez les cas d’utilisation courants et les bonnes pratiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422754/?learn=on&captions=fre_fr){transcript=true}
 
 ## Ressources complémentaires
 

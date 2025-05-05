@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Suivez [!DNL Marketo's] suggestions de bonnes pratiques pour organiser vos programmes et votre instance pour vous aider, ainsi que vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et pour rendre vos rapports plus précis.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413375/?quality=12&learn=on&captions=fre_fr){transcript=true}

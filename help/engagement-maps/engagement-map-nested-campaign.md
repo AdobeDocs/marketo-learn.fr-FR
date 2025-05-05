@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment déchiffrer des campagnes interconnectées et profondément imbriquées pour mieux comprendre l’ensemble du parcours client à l’aide de la carte de l’engagement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423295/?learn=on&captions=fre_fr){transcript=true}

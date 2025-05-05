@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment rationaliser la gestion des doublons dans Marketo Engage à l’aide d’intégrations d’API avec des outils iPaaS tels que Vertify ou Workato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441919/?learn=on&enablevpops&captions=fre_fr)

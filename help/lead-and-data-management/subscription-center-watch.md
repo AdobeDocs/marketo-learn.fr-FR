@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez comment mettre en oeuvre des processus entre vous et vos abonnés en configurant et en gérant votre centre d&#39;inscription.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412234/?quality=12&learn=on&captions=fre_fr){transcript=true}

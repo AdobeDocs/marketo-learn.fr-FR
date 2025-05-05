@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Préparez-vous à impliquer vos clients en tant qu’individus dans votre marketing par e-mail. Découvrez comment diffuser des messages attrayants pertinents pour votre audience et mesurer le retour sur investissement de vos campagnes par e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412019/?quality=12&learn=on&captions=fre_fr){transcript=true}

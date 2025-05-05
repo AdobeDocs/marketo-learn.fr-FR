@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment les doublons proviennent de diverses sources, notamment les synchronisations CRM, les remplissages de formulaires et les importations de données, ainsi que la manière de les réduire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443892/?learn=on&enablevpops&captions=fre_fr)
