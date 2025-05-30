@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Améliorez la qualité des leads que le marketing fournit aux ventes à l’aide d’un programme de notation des leads/personnes. Découvrez la notation du prospect/de la personne, son fonctionnement et les étapes de sa réussite pour réaliser ses avantages mesurables.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412244/?quality=12&learn=on&captions=fre_fr){transcript=true}
