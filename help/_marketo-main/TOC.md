@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 10%
+source-wordcount: '470'
+ht-degree: 11%
 
 ---
 
@@ -17,18 +17,22 @@ ht-degree: 10%
 + Principes fondamentaux {#fundamentals}
    + [Objectifs et stratégie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Structure organisationnelle](/help/fundamentals/organizational-structure-learn.md)
-   + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Marketing de contenu](/help/fundamentals/content-marketing-learn.md)
    + [Personnages de l&#39;acheteur](/help/fundamentals/buyer-personas-learn.md)
+   + [Listes intelligentes](/help/fundamentals/smart-lists.md)
+   + [Listes statiques](/help/fundamentals/static-lists.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
+   + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour créer des programmes fondamentaux](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
-   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/fr/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=fr)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
+   + [Comprendre l’appartenance au programme](/help/programs/understanding-program-membership.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
+   + [Présentation des canaux, balises et coûts de la période](/help/campaigns/channels-tags-period-costs.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
    + Programmes par défaut {#default-programs}
       + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
@@ -95,6 +99,7 @@ ht-degree: 10%
    + [Accès à votre instance d’actions Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurez la journalisation des activités de vente sur  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead et gestion des données {#lead-and-data-management}
+   + [Comprendre la notation](/help/lead-and-data-management/understanding-scoring.md)
    + [Notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Présentation de la notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centre d’abonnements](/help/lead-and-data-management/subscription-center-learn.md)
