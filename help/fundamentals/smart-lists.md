@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Découvrez comment trouver des groupes spécifiques de personnes à l’aide de filtres simples via des listes dynamiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463205/?learn=on&enablevpops&captions=fre_fr)
