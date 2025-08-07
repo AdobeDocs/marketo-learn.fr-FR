@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
+source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '501'
 ht-degree: 11%
 
 ---
@@ -21,22 +21,32 @@ ht-degree: 11%
    + [Personnages de l&#39;acheteur](/help/fundamentals/buyer-personas-learn.md)
    + [Listes intelligentes](/help/fundamentals/smart-lists.md)
    + [Listes statiques](/help/fundamentals/static-lists.md)
+   + [Ressources](/help/fundamentals/assets.md)
+   + [Présentation des jetons](/help/fundamentals/tokens-overview.md)
+   + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
    + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour créer des programmes fondamentaux](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
-   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/fr/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=fr)
 + Programmes et campagnes {#programs-and-campaigns}
+   + [Présentation des programmes](/help/programs/understanding-programs.md)
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Comprendre l’appartenance au programme](/help/programs/understanding-program-membership.md)
+   + [Comprendre les campagnes intelligentes](/help/campaigns/understanding-smart-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
    + [Présentation des canaux, balises et coûts de la période](/help/programs/channels-tags-period-costs.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
    + Programmes par défaut {#default-programs}
       + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
       + [Tirer parti de la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + Programmes de messagerie {#email-programs}
+      + [Créer un programme de messagerie](/help/programs/email-programs/create-an-email-program.md)
+      + [Créer un e-mail](/help/programs/email-programs/create-an-email.md)
+      + [Définition de votre audience](/help/programs/email-programs/define-your-audience.md)
+      + [Créer une page de destination](/help/programs/email-programs/create-a-landing-page.md)
+      + [Création d’un formulaire](/help/programs/email-programs/create-a-form.md)
    + Cartes d’engagement {#engagement-maps}
       + [Aperçu de la carte de l’engagement](/help/engagement-maps/engagement-map-overview.md)
       + [Campagnes imbriquées de carte d’engagement](/help/engagement-maps/engagement-map-nested-campaign.md)
@@ -102,6 +112,7 @@ ht-degree: 11%
    + [Comprendre la notation](/help/lead-and-data-management/understanding-scoring.md)
    + [Notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Présentation de la notation du lead/de la personne](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Comprendre le cycle de vie des prospects](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Centre d’abonnements](/help/lead-and-data-management/subscription-center-learn.md)
    + [Présentation du centre d’abonnements](/help/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
