@@ -30,9 +30,9 @@ Vous pouvez le faire à l’aide de l’API REST et de Mes jetons.
 
 ## Étape 1 : créer la campagne intelligente {#step-one}
 
-1. Accédez à **Activités marketing**, puis dans votre dossier [Programmes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, créez une [Campagne intelligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} appelée `Send Webinar Reminder`.
+1. Accédez à **Activités marketing**, puis dans votre dossier [Programmes](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, créez une [Campagne intelligente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} appelée `Send Webinar Reminder`.
 
-1. Dans l&#39;onglet **Smart List** , [ajoutez un déclencheur](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} pour permettre l&#39;appel de la campagne via l&#39;API :
+1. Dans l&#39;onglet **Smart List** , [ajoutez un déclencheur](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} pour permettre l&#39;appel de la campagne via l&#39;API :
 
    * Sélectionnez **Campagne demandée** comme déclencheur
    * Définir le **Source** sur `Web Service API`
@@ -41,7 +41,7 @@ Vous pouvez le faire à l’aide de l’API REST et de Mes jetons.
 
 ## Étape 2 : définir le contenu de l’e-mail {#step-two}
 
-Créez ou modifiez une [ressource e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} qui fait référence à la fois à la personne et à [Mes jetons](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
+Créez ou modifiez une [ressource e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} qui fait référence à la fois à la personne et à [Mes jetons](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Pour transmettre des valeurs de manière dynamique via l’API, les jetons doive
 
 ## Étape 4 : définir les règles de qualification de la campagne et activer la campagne {#step-four}
 
-1. Configurez les [règles de qualification](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} pour contrôler la fréquence à laquelle une personne peut exécuter la campagne intelligente.
+1. Configurez les [règles de qualification](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} pour contrôler la fréquence à laquelle une personne peut exécuter la campagne intelligente.
 
 1. Une fois la configuration terminée, cliquez sur **Activer** pour permettre à la campagne intelligente de recevoir les requêtes déclenchées par l’API.
 
@@ -134,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
