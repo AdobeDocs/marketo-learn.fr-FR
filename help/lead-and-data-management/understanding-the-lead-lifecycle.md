@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment les prospects (personnes) passent par les différentes étapes de leur parcours d’acheteur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470597/?learn=on&enablevpops&captions=fre_fr)

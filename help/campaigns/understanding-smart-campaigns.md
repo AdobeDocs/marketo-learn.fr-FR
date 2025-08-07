@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Les campagnes intelligentes sont le moteur de Marketo Engage. Ils peuvent être utilisés pour envoyer des e-mails, des programmes, etc. Découvrez ces outils essentiels dans Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470562/?learn=on&enablevpops&captions=fre_fr)
