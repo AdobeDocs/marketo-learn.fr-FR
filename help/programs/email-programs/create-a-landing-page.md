@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment créer, personnaliser et approuver une page de destination dans votre programme de messagerie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470647/?learn=on&enablevpops&captions=fre_fr)

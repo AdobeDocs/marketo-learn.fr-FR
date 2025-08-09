@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment créer et utiliser des formulaires pour capturer des données de prospect/personne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470658/?learn=on&enablevpops&captions=fre_fr)
