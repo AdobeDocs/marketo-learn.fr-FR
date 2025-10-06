@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 11%
+source-wordcount: '499'
+ht-degree: 13%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 11%
    + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour créer des programmes fondamentaux](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/fr/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=fr)
 + Programmes et campagnes {#programs-and-campaigns}
    + [Présentation des programmes](/help/programs/understanding-programs.md)
    + [Présentation des programmes et des campagnes](/help/programs/understanding-programs-and-campaigns.md)
    + [Comprendre l’appartenance au programme](/help/programs/understanding-program-membership.md)
-   + [Comprendre les campagnes intelligentes](/help/campaigns/understanding-smart-campaigns.md)
+   + [Présentation des campagnes intelligentes](/help/campaigns/understanding-smart-campaigns.md)
    + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
    + [Présentation des canaux, balises et coûts de la période](/help/programs/channels-tags-period-costs.md)
    + [Programmes d’événement](/help/programs/event-programs.md)
@@ -42,7 +42,7 @@ ht-degree: 11%
       + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
       + [Tirer parti de la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + Programmes de messagerie {#email-programs}
-      + [Créer un programme de messagerie](/help/programs/email-programs/create-an-email-program.md)
+      + [Créer un programme d’e-mail](/help/programs/email-programs/create-an-email-program.md)
       + [Créer un e-mail](/help/programs/email-programs/create-an-email.md)
       + [Définition de votre audience](/help/programs/email-programs/define-your-audience.md)
       + [Créer une page de destination](/help/programs/email-programs/create-a-landing-page.md)
@@ -76,10 +76,9 @@ ht-degree: 11%
    + [Présentation du marketing mobile](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO et PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [Présentation de l’optimisation du moteur de recherche (SEO) et du PPC](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Marketing social](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Dynamic Chat {#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Visite guidée du produit [2023]](/help/dynamic-chat/product-tour.md)
    + [Visite guidée du produit [2022]](/help/dynamic-chat/product-tour-2022.md)
@@ -125,7 +124,7 @@ ht-degree: 11%
    + [Créer un programme d&#39;événement](/help/events/events-learn.md)
    + [Webinaires](/help/events/webinar-learn.md)
    + [Présentation des webinaires](/help/events/webinar-watch.md)
-   + [Présentation des webinaires interactifs](/help/events/interactive-webinars-overview.md)
+   + [Vue d’ensemble des webinaires interactifs](/help/events/interactive-webinars-overview.md)
    + [Webinaires interactifs Gestion des utilisateurs et des licences](/help/events/interactive-webinars-user-and-license-management.md)
    + [Webinaires interactifs - Création de programme d’événement](/help/events/interactive-webinars-event-program-creation.md)
    + [Présentation du programme d’événement des webinaires interactifs](/help/events/interactive-webinars-event-program-overview.md)
