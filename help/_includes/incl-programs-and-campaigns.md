@@ -20,4 +20,4 @@ Pour plus d’informations, consultez les guides produit connexes :
 
 Apprenez à vos pairs à utiliser les campagnes intelligentes :
 
-* [ Article de blog d’experts : Smart Campaigns 101 : A Deep Dive In Adobe Marketo Engage Le Plus Puissant Fonctionnalité](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [&#x200B; Article de blog d’experts : Smart Campaigns 101 : A Deep Dive In Adobe Marketo Engage Le Plus Puissant Fonctionnalité](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)

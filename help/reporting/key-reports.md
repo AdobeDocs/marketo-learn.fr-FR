@@ -32,6 +32,6 @@ Lisez les guides du produit associés :
 
 Apprenez de vos pairs :
 
-* [ Article de blog d’experts : Comment le Champion Chelsea Kiko se présente dans divers espaces Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [&#x200B; Article de blog d’experts : Comment le Champion Chelsea Kiko se présente dans divers espaces Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
 * [Webinaire client expert : au-delà des concepts de base avec Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-* [ Webinaire client expert : comment créer une stratégie de reporting ROI complète avec Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+* [&#x200B; Webinaire client expert : comment créer une stratégie de reporting ROI complète avec Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)

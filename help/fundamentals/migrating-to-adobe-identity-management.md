@@ -32,7 +32,7 @@ Pour que votre entreprise puisse migrer Adobe Marketo Engage vers Adobe Admin Co
 
 * Collaborez avec votre équipe informatique pour placer sur la liste autorisée tous les domaines Adobe répertoriés [au début de cet article](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} afin d’éviter toute perturbation de l’accès à Marketo Engage après la migration vers Adobe Identity.
 
-* **Facultatif :** [ Implémenter l’authentification unique (SSO)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} avant la migration des utilisateurs.
+* **Facultatif :** [&#x200B; Implémenter l’authentification unique (SSO)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} avant la migration des utilisateurs.
 
   >[!NOTE]
   >

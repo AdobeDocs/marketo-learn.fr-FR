@@ -32,4 +32,4 @@ Lorsque vous commencez à travailler avec Marketo Engage, l’organisation est e
 * [Importer un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=fr)
 * [Compréhension des dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=fr)
 * [Créer un dossier Campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=fr)
-* [ Présentation des espaces de travail et des partitions de personne](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=fr)
+* [&#x200B; Présentation des espaces de travail et des partitions de personne](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=fr)

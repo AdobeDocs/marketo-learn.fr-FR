@@ -29,7 +29,7 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 * [Présentation des webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _En savoir plus sur les webinaires interactifs, la plateforme de webinaires intégrée à Marketo Engage._
 
-* [Migration vers Adobe Identity Management ](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [Migration vers Adobe Identity Management &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Découvrez comment parcourir la migration d’Adobe Identity Management afin de commencer à gérer Adobe Marketo Engage ainsi que d’autres comptes et produits Adobe pour vos utilisateurs et utilisatrices dans un emplacement centralisé._
 
 ## Vidéos les plus populaires {#most-popular-videos}

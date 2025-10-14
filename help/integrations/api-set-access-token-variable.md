@@ -28,7 +28,7 @@ Découvrez comment configurer l’application Postman et utiliser les variables 
 >
 >* [Créer un utilisateur API uniquement](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [ Créez un service personnalisé à utiliser avec l’API REST ](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [&#x200B; Créez un service personnalisé à utiliser avec l’API REST &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Références utilisées dans cette vidéo :**
 
