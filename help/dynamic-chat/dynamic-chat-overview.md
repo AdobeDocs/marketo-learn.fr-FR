@@ -18,74 +18,53 @@ ht-degree: 14%
 
 ![](assets/dynamic-chat-header.png)
 
-Bienvenue sur le site des tutoriels [!UICONTROL Dynamic Chat]. Utilisez ces tutoriels ainsi que la documentation pour mieux comprendre comment utiliser [!UICONTROL Dynamic Chat] pour créer des conversations personnalisées. Les rubriques suivantes peuvent vous aider à démarrer :
+Bienvenue sur le site des tutoriels [!UICONTROL Dynamic Chat]. Utilisez ces tutoriels et la documentation pour mieux comprendre comment utiliser [!UICONTROL Dynamic Chat] afin de créer des conversations personnalisées. Les rubriques suivantes peuvent vous aider à commencer :
 
 * Vue d’ensemble
-   * **[Visite rapide de produit [2023]](product-tour.md)**
-
+   * **[Une rapide présentation du produit [2023]](product-tour.md)**
      *Obtenez un aperçu de toutes les nouvelles fonctionnalités lancées en 2023.*
-   * **[Visite rapide de produit [2022]](product-tour.md)**
-
-     *Obtenez un aperçu du produit complet et découvrez comment tirer parti de [!UICONTROL Dynamic Chat].*
-   * **[Go live in 15 minutes](go-live-in-15-minutes.md)**
-
-     *Guide détaillé pour vous aider à passer en direct avec votre première boîte de dialogue en utilisant [!UICONTROL Dynamic Chat] en seulement 15 minutes !*
+   * **[Une rapide présentation du produit [2022]](product-tour.md)**
+     *Obtenez un aperçu de l&#39;ensemble du produit et découvrez comment tirer parti de [!UICONTROL Dynamic Chat].*
+   * **[Mise en production dans 15 minutes](go-live-in-15-minutes.md)**
+     *Guide détaillé pour vous aider à mettre en ligne votre première boîte de dialogue à l’aide de [!UICONTROL Dynamic Chat] en seulement 15 minutes !*
 * Configuration
    * **[Configurer et installer votre bot conversationnel](setup.md)**
-
-     *Découvrez les étapes pour configurer votre abonnement [!UICONTROL Dynamic Chat].*
+     *Découvrez les étapes de configuration de votre abonnement [!UICONTROL Dynamic Chat].*
    * **[Activer votre intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)**
-
-     *Ciblez les visiteurs web avec des conversations et personnalisez-les avec des informations de piste provenant de Marketo.*
+     *Ciblez vos visiteurs et visiteuses web avec des conversations et personnalisez-les avec les informations de prospect de Marketo.*
    * **[Ajouter et gérer des utilisateurs de [!UICONTROL Dynamic Chat]](user-management.md)**
-
      *Découvrez comment ajouter ou gérer des utilisateurs dans [!UICONTROL Dynamic Chat] .*
    * **[Gestion des agents](agent-management.md)**
-
      *Découvrez comment gérer les agents.*
 * Chat automatisé
    * **[Créer et gérer des dialogues personnalisés](dialogue-management.md)**
-
-     *Découvrez comment créer une boîte de dialogue pour impliquer rapidement votre visiteur web avec [!UICONTROL Dynamic Chat].*
-   * **[Incorporer le PDF dans les conversations](document-cloud-integration.md)**
-
-     *Partagez des documents de PDF dans les conversations personnalisées que vous concevez dans [!UICONTROL Dynamic Chat].*
-   * **[Recherche dans le Designer de diffusion](search-in-stream-designer.md)**
-
-     *Une recherche rapide peut vous aider à accéder à n’importe quelle carte de votre concepteur de flux en un clic.*
+     *Découvrez comment créer une boîte de dialogue pour interagir rapidement avec votre visiteur web avec [!UICONTROL Dynamic Chat].*
+   * **[Incorporer PDF dans les conversations](document-cloud-integration.md)**
+     *Partager des documents PDF dans des conversations personnalisées que vous concevez dans [!UICONTROL Dynamic Chat].*
+   * **[Recherche dans Stream Designer](search-in-stream-designer.md)**
+     *Une recherche rapide peut vous aider à accéder en un clic à n’importe quelle carte de votre concepteur de flux.*
    * **[Capture des attributs déduits](capture-inferred-attributes.md)**
-
-     *Nous pouvons identifier et renseigner les attributs déduits par rapport à chaque piste capturée par le Dynamic Chat en utilisant l’ID Munchkin.*
-   * **[Prévisualisation de dialogue](dialogue-preview.md)**
-
-     *L’aperçu de la boîte de dialogue avant la publication est très facile avec la fonctionnalité d’aperçu Dialogue.*
-   * **[Mondialisation du contenu statique](globalization-of-static-content.md)**
-
+     *Nous pouvons identifier et renseigner les attributs déduits par rapport à chaque prospect capturé via Dynamic Chat à l’aide de l’ID Munchkin.*
+   * **[Aperçu de la boîte de dialogue](dialogue-preview.md)**
+     *La prévisualisation de la boîte de dialogue avant la publication est extrêmement facile avec la fonctionnalité Aperçu de la boîte de dialogue*.
+   * **[Globalisation du contenu statique](globalization-of-static-content.md)**
      *Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.*
-   * **[&#128279;](conversational-forms.md)**
-
-     *Découvrez comment interagir avec les visiteurs de votre site web immédiatement après qu&#39;ils ont rempli un formulaire.*
-   * **[SDK Conversations](conversations-sdk.md)**
-
-     *Découvrez comment mettre en oeuvre le SDK Conversations pour convertir tout clic CTA en conversation engageante.*
+   * **[Forms de conversation](conversational-forms.md)**
+     *Découvrez comment interagir avec les visiteurs et visiteuses de votre site web immédiatement après avoir rempli un formulaire.*
+   * **[Conversations SDK](conversations-sdk.md)**
+     *Découvrez comment implémenter Conversations SDK pour convertir n’importe quel clic CTA en une conversation engageante.*
    * **[Flux réutilisables](reusable-flows.md)**
-
-     *Simplifiez la conception et la gestion de vos conversations avec la nouvelle carte Flux de conversation. Créez un flux conversationnel une fois et réutilisez-le en plusieurs boîtes de dialogue.*
-   * **[Pages d’entrée de conversation](conversational-landing-pages.md)**
-
-     *En quelques clics seulement, installez les flux de conversation de Dynamic Chat dans n’importe quelle page d’entrée (pages d’entrée Marketo ou personnalisées) et convertissez n’importe quel lien ou bouton pour déclencher un engagement conversationnel.*
-* Chat en direct et réservation de réunions
-   * **[Connecter les visiteurs aux agents actifs](connect-visitors-to-live-agents.md)**
-
-     *Connectez vos pistes qualifiées pour interagir instantanément avec vos agents de vente.*
-   * **[Activez vos pistes pour réserver des réunions avec vos ventes](meeting-booking.md)**
-
-     *Accélérer la connexion avec les ventes pour ces comptes [!DNL target] avec des fonctionnalités de réservation de réunions.*
-* Conversation AI générique
-   * **[Lancer les conversations générées par GenAI](gen-ai-features.md)**
-
+     *Simplifiez la conception et la gestion de vos conversations avec la nouvelle carte Flux de conversation. Créez un flux de conversation une seule fois et réutilisez-le dans plusieurs boîtes de dialogue.*
+   * **[Pages de destination de conversation](conversational-landing-pages.md)**
+     *En quelques clics seulement, installez les flux de conversation Dynamic Chat dans n’importe quelle page de destination (pages de destination Marketo ou personnalisée) et convertissez n’importe quel lien ou bouton pour déclencher un engagement conversationnel.*
+* Chat en direct et réservation de réunion
+   * **[Connecter des visiteurs à des agents en direct](connect-visitors-to-live-agents.md)**
+     *Connectez vos prospects qualifiés pour communiquer instantanément avec vos agents de vente.*
+   * **[Permettre à vos prospects de réserver des réunions avec vos ventes](meeting-booking.md)**
+     *Accélérez la connexion avec les ventes pour les comptes [!DNL target] avec les fonctionnalités de réservation de réunion.*
+* Conversation sur l’IA générative
+   * **[Conversations générées par GenAI](gen-ai-features.md)**
      *Découvrez comment utiliser les fonctionnalités Dynamic Chat GenAI.*
-* Analytics
-   * **[Rapport Engagement](engagement-report.md)**
-
-     *Découvrez les tendances de la façon dont vos visiteurs web interagissent avec votre dialogue.*
+* Analyse
+   * **[Rapport d’engagement](engagement-report.md)**
+     *Découvrez les tendances de la manière dont vos visiteurs et visiteuses web interagissent avec votre dialogue.*
