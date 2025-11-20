@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Les campagnes intelligentes sont le moteur de Marketo. Outre l’utilisation de campagnes intelligentes pour envoyer des e-mails et des programmes, vous pouvez utiliser des campagnes intelligentes pour divers cas d’utilisation. Découvrez comment utiliser les campagnes intelligentes pour la normalisation des données et les alertes automatisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424495/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 
 ## Ressources supplémentaires
