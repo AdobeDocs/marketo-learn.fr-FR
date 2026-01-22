@@ -46,7 +46,7 @@ Pour que votre entreprise puisse migrer Adobe Marketo Engage vers Adobe Admin
 
 Dans la vidéo ci-dessous, l’équipe de gestion des produits Marketo Engage vous guide tout au long du parcours de migration et vous explique ce à quoi vous attendre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432365/?captions=fre_fr&t=170/?quality=12&learn=on){transcript=true}
 
 Vous trouverez plus d’informations sur cette rubrique pour les administrateurs et administratrices de Marketo Engage dans les articles d’aide suivants :
 

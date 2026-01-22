@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Découvrez comment Marketo Engage et Salesforce s’associent pour que vos données de vente et marketing restent synchronisées. Ce tutoriel vous explique comment fonctionne la synchronisation, comment la configurer pour que les données appropriées soient transmises, ainsi que les éléments essentiels à vérifier pour s’assurer qu’elle fonctionne correctement. D’autres conseils et astuces pour gérer la synchronisation de Salesforce sont partagés pour vous aider à sélectionner les champs à synchroniser et à masquer les champs qui ne sont plus nécessaires.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453798/?captions=fre_fr&learn=on)
 
 ## Liens utilisés dans la vidéo
 
