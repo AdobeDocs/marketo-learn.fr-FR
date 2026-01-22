@@ -38,7 +38,7 @@ Pour que votre entreprise puisse migrer Adobe Marketo Engage vers Adobe Admin
   >
   >Il existe des différences entre l’authentification unique prise en charge par Marketo Engage et l’authentfication unique Adobe Admin Console. Par conséquent, il se peut que des modifications apportées à votre configuration doivent être implémentées.
 
-* **Facultatif :** personnalisez la [durée de vie de session maximale souhaitée](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"} avant la migration des utilisateurs et utilisatrices pour que les utilisateurs et utilisatrices de Marketo Engage restent authentifiés.
+* **Facultatif :** personnalisez la [durée de vie de session maximale souhaitée](https://helpx.adobe.com/fr/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"} avant la migration des utilisateurs et utilisatrices pour que les utilisateurs et utilisatrices de Marketo Engage restent authentifiés.
 
 * Découvrez les éléments à communiquer avec vos administrateurs et administratrices système dans la [section Exemple d’e-mail](#announce-the-migration-timeline).
 
@@ -94,7 +94,7 @@ Notre abonnement Marketo Engage subira bientôt une migration vers le système 
 
 * À l’avenir, pour les utilisateurs et utilisatrices qui se connectent avec l’authentification unique sur leur identité Adobe, vous devrez aider à la configuration de l’authentification unique dans Adobe Admin Console avant leur migration.
 
-`5.` **Facultatif :** définissez une [durée de vie de session maximale](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"} plus longue dans Adobe Admin Console.
+`5.` **Facultatif :** définissez une [durée de vie de session maximale](https://helpx.adobe.com/fr/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"} plus longue dans Adobe Admin Console.
 
 * Pour éviter aux utilisateurs et utilisatrices d’avoir à se connecter fréquemment, personnalisez la durée de vie de la session dans les Paramètres avancés avec une durée plus longue.
 
