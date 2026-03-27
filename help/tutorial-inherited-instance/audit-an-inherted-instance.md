@@ -24,4 +24,4 @@ Hériter d’une instance de Marketo Engage peut être une période stressante, 
 
 Dans ce tutoriel, nous vous guiderons à travers les sections les plus importantes de Marketo Engage, notamment Admin, Activités marketing, Design Studio et Base de données, et vous donnerons des conseils sur l’audit et l’optimisation tout au long du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453024/?captions=fre_fr&learn=on)
