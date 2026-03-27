@@ -3,9 +3,9 @@ title: Tutoriels Marketo Engage
 description: Regardez des tutoriels vidéo sur  [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
-workflow-type: ht
-source-wordcount: '161'
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+workflow-type: tm+mt
+source-wordcount: '265'
 ht-degree: 100%
 
 ---
@@ -14,12 +14,14 @@ ht-degree: 100%
 
 Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL Marketo Engage]. Ces tutoriels peuvent compléter la [[!DNL Marketo] documentation produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} afin de vous aider à mieux comprendre les fonctionnalités d’automatisation du marketing.
 
-<!-- <div id="recs-overview-body-1"></div>
+<!-- 
+<div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div> -->
+<div id="recs-overview-body-6"></div> 
+-->
 
 ## Nouveautés {#whats-new}
 
