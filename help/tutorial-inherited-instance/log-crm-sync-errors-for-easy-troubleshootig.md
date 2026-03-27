@@ -55,9 +55,9 @@ Avant de commencer, téléchargez le modèle de journal [Erreurs de synchronisat
 Adobe Marketo Champion(2019-2022)
 *fondateur, MarketingOpsAdvice.com*
 
-![ Amy Goldfine ](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
+![&#x200B; Amy Goldfine &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
 **Amy Chiu**
 *Responsable marketing adoption et rétention chez Adobe*
 
-![ Amy Chiu ](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
+![&#x200B; Amy Chiu &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
