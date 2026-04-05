@@ -1,0 +1,25 @@
+---
+title: Programmes par défaut
+description: Découvrez comment créer et mesurer le succès de vos programmes par défaut.
+role: User
+level: Beginner
+doc-type: Feature Video
+last-substantial-update: 2023-06-28T00:00:00Z
+jira: KT-13262
+thumbnail: 3420137.jpeg
+feature: Programs
+exl-id: f9c353ad-219e-40d0-95d6-db8b4262e206
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '53'
+ht-degree: 54%
+
+---
+
+# Tirer parti de la flexibilité des programmes par défaut
+
+
+Sur les quatre types de programmes, les programmes par défaut sont les plus flexibles et vous permettent de créer en utilisant votre imagination.
+Découvrez deux cas d’utilisation courants : les formulaires web et la génération de médias payants.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
