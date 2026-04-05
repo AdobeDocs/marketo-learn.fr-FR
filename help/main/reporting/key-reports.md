@@ -28,7 +28,7 @@ Découvrez les principaux rapports dans Marketo Engage et comment les extraire.
 
 Lisez les guides des produits associés :
 
-* [Vue d’ensemble du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Vue d’ensemble du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=fr)
 
 Apprenez de vos pairs :
 

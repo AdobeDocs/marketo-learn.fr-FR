@@ -24,7 +24,7 @@ Découvrez la navigation dans l’interface utilisateur et familiarisez-vous ave
 
 ## Ressources supplémentaires
 
-* Glossaire de [Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* Glossaire de [Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=fr)
 Définitions de nombreux termes que vous pouvez rencontrer lors de l’utilisation de Marketo.
-* [Glossaire des icônes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [Glossaire des icônes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=fr)
 Glossaire des icônes de l’interface de Marketo Engage.

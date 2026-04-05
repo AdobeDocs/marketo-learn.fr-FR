@@ -26,7 +26,7 @@ Apprenez le b.a.-ba des programmes d’événement et créez votre premier progr
 
 Pour plus d’informations, consultez les guides des produits associés :
 
-* [Documentation sur la présentation des programmes d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Documentation sur la présentation des programmes d’événement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=fr)
 
 Regardez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
 * [Présentation des événements](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=fr)
