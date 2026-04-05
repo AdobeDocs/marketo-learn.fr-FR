@@ -18,7 +18,7 @@ ht-degree: 4%
 
  est nativement intégré à [!DNL Marketo Engage], ce qui vous permet d’utiliser le contexte des conversations du bot conversationnel pour recibler ou évaluer vos prospects.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345044/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 

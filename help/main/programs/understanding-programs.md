@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Les programmes constituent une initiative marketing unique. Découvrez comment les exploiter pour atteindre votre audience de différentes manières.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470489/?captions=fre_fr&learn=on&enablevpops)

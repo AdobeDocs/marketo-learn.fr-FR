@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer un programme opérationnel de notation des leads/personnes, utiliser des jetons dans la campagne et importer des campagnes préconfigurées.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412239/?captions=fre_fr&quality=12&learn=on){transcript=true}

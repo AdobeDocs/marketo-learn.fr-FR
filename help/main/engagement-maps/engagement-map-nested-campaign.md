@@ -21,4 +21,4 @@ ht-degree: 16%
 
 Découvrez comment déchiffrer les campagnes interconnectées et profondément imbriquées pour obtenir une meilleure visibilité sur l’ensemble du parcours client à l’aide d’Engagement Map.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423295/?captions=fre_fr&learn=on){transcript=true}

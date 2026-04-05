@@ -18,7 +18,7 @@ ht-degree: 28%
 
  est une nouvelle solution de bot conversationnel destinée au marketing et aux ventes. Il est nativement intégré à [!DNL Marketo Engage], ce qui vous permet d’utiliser [!UICONTROL Dynamic Chat] comme un nouveau canal dans votre marketing cross-canal. Son utilisation et sa configuration ne présentent aucune difficulté. Faites une visite rapide du produit :
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454517/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 

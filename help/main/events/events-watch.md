@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Découvrez comment créer un programme d’événement pour un salon professionnel, basé sur un programme préconfiguré dans Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411677/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

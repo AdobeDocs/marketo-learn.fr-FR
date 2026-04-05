@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Créez un programme [!UICONTROL cycle de vie de la personne] qui suit vos prospects à l’aide des statuts de programme et agit sur les prospects prêts à être vendus.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412249/?captions=fre_fr&quality=12&learn=on){transcript=true}

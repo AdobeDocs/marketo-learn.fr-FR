@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Simplifiez la conception et la gestion de vos conversations avec la nouvelle carte Flux de conversation . Créez un flux de conversation une fois et réutilisez-le dans plusieurs boîtes de dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446647/?captions=fre_fr&learn=on)

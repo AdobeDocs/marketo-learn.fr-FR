@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Une recherche rapide peut vous aider à accéder en un clic à n’importe quelle carte de votre concepteur de flux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437241/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 

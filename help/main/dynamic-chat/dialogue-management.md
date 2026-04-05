@@ -18,7 +18,7 @@ ht-degree: 21%
 
 La conception de conversations ciblées et personnalisées est essentielle pour assurer une expérience de conversation optimale pour chaque visiteur web. Découvrez comment créer et gérer une boîte de dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443791/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 

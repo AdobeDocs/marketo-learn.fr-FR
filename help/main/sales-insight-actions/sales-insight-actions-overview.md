@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Accélérez les efforts de prospection grâce à des outils d’engagement et d’intelligence basés sur le marketing réunis en un seul workflow à l’aide des actions Sales Insight.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447247/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos connexes
 

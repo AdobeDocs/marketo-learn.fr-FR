@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez rapidement les différents éléments d’un programme d’événements de webinaires interactifs et découvrez les actions que vous pouvez entreprendre pour l’ajuster.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450082/?captions=fre_fr&learn=on)

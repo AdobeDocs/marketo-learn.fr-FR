@@ -20,4 +20,4 @@ ht-degree: 9%
 
 Découvrez comment utiliser des jetons dans les programmes Marketo. L’utilisation des jetons dans les programmes Marketo peut faciliter la personnalisation, accélérer la création du programme et réduire la probabilité d’erreurs humaines ou de fautes de frappe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423548/?captions=fre_fr&learn=on){transcript=true}

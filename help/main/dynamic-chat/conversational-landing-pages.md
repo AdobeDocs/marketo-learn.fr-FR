@@ -26,4 +26,4 @@ Cas d’utilisation que vous pouvez déverrouiller -
 - Contenu recommandé en fonction des choix/centres d’intérêt des visiteurs
 - Partager des documents et suivre l’engagement
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445103/?captions=fre_fr&learn=on)

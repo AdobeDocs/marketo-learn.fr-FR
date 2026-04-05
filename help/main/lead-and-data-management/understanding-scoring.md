@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment attribuer une note à vos personnes/prospects afin d’évaluer leur engagement par rapport à votre contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463238/?captions=fre_fr&learn=on&enablevpops)

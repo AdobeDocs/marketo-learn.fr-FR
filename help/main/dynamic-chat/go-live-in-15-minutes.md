@@ -18,6 +18,6 @@ ht-degree: 11%
 
 Un guide détaillé pour vous aider à mettre en ligne votre première boîte de dialogue à l’aide de  en seulement 15 minutes !
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452670/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 *Remarque : pour ceux qui ne savent pas comment accéder à [!UICONTROL Dynamic Chat] , [voici une courte vidéo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=fr) pour vous aider à vous ajouter ou à ajouter d’autres utilisateurs à [!UICONTROL Dynamic Chat] .*

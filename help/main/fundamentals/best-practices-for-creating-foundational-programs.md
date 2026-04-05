@@ -20,7 +20,7 @@ ht-degree: 13%
 
 Découvrez les quatre types de programmes, comment importer des programmes, comment noter des programmes pour les prospects et les personnes et comment définir des balises de canal. Découvrez les cas d’utilisation courants et les bonnes pratiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422754/?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

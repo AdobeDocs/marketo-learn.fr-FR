@@ -26,4 +26,4 @@ Il est préférable d’effectuer les opérations suivantes :
 * S&#39;assurer que tu parles toujours à ceux qui lèvent la main
 * Offre après le remplissage du formulaire ou pendant la conversation automatisée
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452060/?captions=fre_fr&learn=on)

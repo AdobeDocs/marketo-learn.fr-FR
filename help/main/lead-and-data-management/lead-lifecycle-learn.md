@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Savez-vous combien de leads se trouvent à chaque étape du parcours des acheteurs et quand les ventes devraient communiquer avec eux ? Découvrez comment créer un programme [!UICONTROL cycle de vie de la personne] qui utilise la notation pour obtenir des informations sur l’emplacement de vos prospects dans leur parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412254/?captions=fre_fr&quality=12&learn=on){transcript=true}

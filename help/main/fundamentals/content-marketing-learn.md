@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Attirez, acquérez et impliquez votre audience en développant une stratégie de marketing de contenu. Découvrez les étapes clés du succès, notamment l’optimisation et la mesure de l’impact de votre contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413386/?captions=fre_fr&quality=12&learn=on){transcript=true}

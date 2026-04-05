@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment définir l’audience souhaitée lors de l’utilisation d’un programme de messagerie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470669/?captions=fre_fr&learn=on&enablevpops)

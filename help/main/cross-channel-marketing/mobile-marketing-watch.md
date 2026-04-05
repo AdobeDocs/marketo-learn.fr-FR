@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer des profils d’acheteur, définir des indicateurs clés de performance, déterminer le rythme de vos communications, utiliser le calendrier marketing [!DNL Marketo], etc. pour améliorer votre stratégie marketing mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413411/?captions=fre_fr&quality=12&learn=on){transcript=true}

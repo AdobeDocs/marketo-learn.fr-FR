@@ -22,4 +22,4 @@ ht-degree: 54%
 Sur les quatre types de programmes, les programmes par défaut sont les plus flexibles et vous permettent de créer en utilisant votre imagination.
 Découvrez deux cas d’utilisation courants : les formulaires web et la génération de médias payants.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453853?captions=fre_fr&learn=on){transcript=true}

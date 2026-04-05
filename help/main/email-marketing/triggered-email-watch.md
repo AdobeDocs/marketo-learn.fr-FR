@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer une campagne intelligente déclenchée.
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411482/?captions=fre_fr&quality=12&learn=on){transcript=true}

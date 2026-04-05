@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Découvrez comment configurer et consigner les activités Sales Insight Actions dans votre compte [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449201/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos connexes
 

@@ -18,4 +18,4 @@ ht-degree: 4%
 
 Avec l&#39;inondation de la technologie d&#39;aujourd&#39;hui, le marketing mobile est l&#39;une des stratégies les plus impératives à employer. Découvrez comment développer des relations avec vos acheteurs en créant des connexions personnelles et en temps réel grâce à la commodité des appareils mobiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411687/?captions=fre_fr&quality=12&learn=on){transcript=true}

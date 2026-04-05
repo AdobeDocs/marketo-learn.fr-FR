@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Tirez parti de l&#39;engagement en personne dans vos programmes marketing d’événement pour établir des relations, générer de la bonne volonté et gagner la confiance des acheteurs et clients potentiels.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411682/?captions=fre_fr&quality=12&learn=on){transcript=true}

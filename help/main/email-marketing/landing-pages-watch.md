@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer, personnaliser et personnaliser des pages de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412004/?captions=fre_fr&quality=12&learn=on){transcript=true}

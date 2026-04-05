@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer, concevoir et organiser des formulaires qui incluent le profilage progressif.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411667/?captions=fre_fr&quality=12&learn=on){transcript=true}

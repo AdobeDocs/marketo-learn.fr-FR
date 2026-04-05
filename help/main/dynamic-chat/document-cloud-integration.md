@@ -18,4 +18,4 @@ ht-degree: 0%
 
  est désormais intégré à l’API incorporée Document Cloud PDF. Cela vous permet de partager des documents PDF dans des conversations personnalisées que vous concevez dans [!UICONTROL Dynamic Chat] .
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447979/?captions=fre_fr&quality=12&learn=on){transcript=true}
