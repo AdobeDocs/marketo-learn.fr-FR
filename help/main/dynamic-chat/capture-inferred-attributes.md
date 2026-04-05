@@ -24,6 +24,6 @@ ht-degree: 7%
 
 ## Vidéos plus utiles
 
-* [Ajouter et gérer des utilisateurs de ](user-management.md)
+* [Ajouter et gérer des utilisateurs de &#x200B;](user-management.md)
 * [Créer et gérer des dialogues personnalisés](dialogue-management.md)
 * [Activer votre intégration Marketo avec [!UICONTROL Dynamic Chat]](marketo-integration.md)

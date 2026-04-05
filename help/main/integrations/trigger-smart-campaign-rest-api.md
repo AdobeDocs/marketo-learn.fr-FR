@@ -35,7 +35,7 @@ Vous pouvez le faire à l’aide de l’API REST et de Mes jetons.
 1. Dans l&#39;onglet **Smart List** , [ajoutez un déclencheur](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} pour permettre l&#39;appel de la campagne via l&#39;API :
 
    * Sélectionnez **Campagne demandée** comme déclencheur
-   * Définir le **** sur `Web Service API`
+   * Définir le **&#x200B;**&#x200B;sur `Web Service API`
 
 ![Configuration du déclencheur de liste dynamique](assets/trigger-smart-campaign-rest-api-1.png)
 

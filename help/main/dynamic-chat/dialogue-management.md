@@ -22,6 +22,6 @@ La conception de conversations ciblées et personnalisées est essentielle pour 
 
 ## Vidéos plus utiles
 
-* [Ajouter et gérer des utilisateurs de ](user-management.md)
+* [Ajouter et gérer des utilisateurs de &#x200B;](user-management.md)
 * [Activation de l’intégration de Marketo à Dynamic Chat](marketo-integration.md)
 * [Permettre à vos prospects de réserver des réunions avec vos ventes](meeting-booking.md)

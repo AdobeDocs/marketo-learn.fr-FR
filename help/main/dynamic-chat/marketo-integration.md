@@ -23,5 +23,5 @@ ht-degree: 4%
 ## Vidéos plus utiles
 
 * [Créer et gérer des dialogues personnalisés](dialogue-management.md)
-* [Ajouter et gérer des utilisateurs de ](user-management.md)
+* [Ajouter et gérer des utilisateurs de &#x200B;](user-management.md)
 * [Capture des attributs déduits](capture-inferred-attributes.md)

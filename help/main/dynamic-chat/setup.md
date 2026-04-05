@@ -1,6 +1,6 @@
 ---
 title: Configurer et installer votre bot conversationnel
-description: Découvrez comment configurer [!UICONTROL ] pour une première utilisation.
+description: Découvrez comment configurer  pour une première utilisation.
 role: User
 level: Beginner
 jira: KT-9693
@@ -24,4 +24,4 @@ Ce guide vous aide à installer le code JavaScript du bot conversationnel sur vo
 
 * [Activation de l’intégration de Marketo à Dynamic Chat](marketo-integration.md)
 * [Créer et gérer des dialogues personnalisés](dialogue-management.md)
-* [Ajouter et gérer des utilisateurs de ](user-management.md)
+* [Ajouter et gérer des utilisateurs de &#x200B;](user-management.md)

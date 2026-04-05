@@ -45,7 +45,7 @@ Bienvenue sur le site des tutoriels [!UICONTROL Dynamic Chat]. Utilisez ces tut
      *Une recherche rapide peut vous aider à accéder en un clic à n’importe quelle carte de votre concepteur de flux.*
    * **[Capturer les attributs déduits](capture-inferred-attributes.md)**
      *Nous pouvons identifier et renseigner les attributs déduits par rapport à chaque prospect capturé via Dynamic Chat à l’aide de l’ID Munchkin.*
-   * Aperçu de la boîte de dialogue **[](dialogue-preview.md)**
+   * Aperçu de la boîte de dialogue **[&#128279;](dialogue-preview.md)**
      *La prévisualisation de la boîte de dialogue avant la publication est extrêmement facile grâce à la fonctionnalité Aperçu de la boîte de dialogue.*
    * **[Globalisation du contenu statique](globalization-of-static-content.md)**
      *Vous pouvez personnaliser le contenu statique/système dans la langue de votre choix.*
