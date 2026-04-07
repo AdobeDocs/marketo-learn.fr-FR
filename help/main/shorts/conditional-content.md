@@ -1,5 +1,5 @@
 ---
-title: Contenu conditionnel - Forme courte
+title: Contenu conditionnel
 description: Découvrez comment contrôler de manière dynamique le contenu affiché par chaque audience.
 feature: Email Designer
 role: Admin, User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 74
 last-substantial-update: 2026-04-07T00:00:00Z
 jira: KT-20510
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 38af3c262590a4bd782a20816c4a174e6c213fa2
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 0%
+source-wordcount: '28'
+ht-degree: 14%
 
 ---
 
-# Contenu conditionnel - Forme courte
+# Contenu conditionnel
 
 Découvrez comment contrôler de manière dynamique le contenu affiché par chaque audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481284/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
