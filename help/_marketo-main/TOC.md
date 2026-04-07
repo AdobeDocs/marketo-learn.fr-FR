@@ -1,0 +1,155 @@
+---
+user-guide-title: Tutoriels Marketo Engage
+user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
+breadcrumb-title: Tutoriels Marketo Engage
+auto-video-transcripts: true
+source-git-commit: 18064e3980cbb0309efa987b3e59f29d3529a6b3
+workflow-type: tm+mt
+source-wordcount: '546'
+ht-degree: 95%
+
+---
+
+
+# Tutoriels [!DNL Marketo Engage] {#tutorials}
+
++ [Tutoriels [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
++ Notions fondamentales {#fundamentals}
+   + [Objectifs et stratégie](/help/fundamentals/goals-and-strategy-learn.md)
+   + [Structure organisationnelle](/help/fundamentals/organizational-structure-learn.md)
+   + [Marketing de contenu](/help/fundamentals/content-marketing-learn.md)
+   + [Personas d’acheteur](/help/fundamentals/buyer-personas-learn.md)
+   + [Listes intelligentes](/help/fundamentals/smart-lists.md)
+   + [Listes statiques](/help/fundamentals/static-lists.md)
+   + [Ressources](/help/fundamentals/assets.md)
+   + [Vue d’ensemble des jetons](/help/fundamentals/tokens-overview.md)
+   + [Personnaliser avec des jetons](/help/personalization/personalize-with-tokens.md)
+   + [Programmes et campagnes](/help/fundamentals/programs-and-campaigns.md)
+   + [Migration vers Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
+   + [Bonnes pratiques pour organiser une nouvelle instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Bonnes pratiques pour créer des programmes fondamentaux](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
+   + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/fr/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Audit d’une instance héritée - Tutoriel](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=fr)
++ Programmes et campagnes {#programs-and-campaigns}
+   + [Présentation des programmes](/help/programs/understanding-programs.md)
+   + [Présentation des programmes et campagnes](/help/programs/understanding-programs-and-campaigns.md)
+   + [Comprendre l’appartenance au programme](/help/programs/understanding-program-membership.md)
+   + [Présentation des campagnes intelligentes](/help/campaigns/understanding-smart-campaigns.md)
+   + [Campagnes intelligentes 101](/help/campaigns/smart-campaigns-101.md)
+   + [Présentation des canaux, balises et coûts de la période](/help/programs/channels-tags-period-costs.md)
+   + [Programmes d’événements](/help/programs/event-programs.md)
+   + Programmes par défaut {#default-programs}
+      + [Créer et mesurer un programme par défaut](/help/programs/create-and-measure-default-programs.md)
+      + [Tirer parti de la flexibilité des programmes par défaut](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + Programmes d’e-mail {#email-programs}
+      + [Créer un programme d’e-mail](/help/programs/email-programs/create-an-email-program.md)
+      + [Créer un e-mail](/help/programs/email-programs/create-an-email.md)
+      + [Définir votre audience](/help/programs/email-programs/define-your-audience.md)
+      + [Créer une page de destination](/help/programs/email-programs/create-a-landing-page.md)
+      + [Créer un formulaire](/help/programs/email-programs/create-a-form.md)
+   + Cartes d’engagement {#engagement-maps}
+      + [Vue d’ensemble d’une carte d’engagement](/help/engagement-maps/engagement-map-overview.md)
+      + [Campagnes imbriquées dans une carte d’engagement](/help/engagement-maps/engagement-map-nested-campaign.md)
+      + [Détection et résolution des erreurs de carte d’engagement](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
++ Marketing par e-mail {#email-marketing}
+   + [E-mail planifié](/help/email-marketing/scheduled-email-learn.md)
+   + [Présentation d’un e-mail planifié](/help/email-marketing/scheduled-email-watch.md)
+   + [Newsletter personnalisée](/help/email-marketing/personalized-newsletter-learn.md)
+   + [Présentation d’une newsletter personnalisée](/help/email-marketing/personalized-newsletter-watch.md)
+   + [Offre de contenu sécurisé](/help/email-marketing/gated-content-offer-learn.md)
+   + [Présentation de l’offre de contenu sécurisé](/help/email-marketing/gated-content-offer-watch.md)
+   + [Tests A/B](/help/email-marketing/ab-testing-learn.md)
+   + [Présentation des tests A/B](/help/email-marketing/ab-testing-watch.md)
+   + [Pages de destination](/help/email-marketing/landing-pages-learn.md)
+   + [Présentation des pages de destination](/help/email-marketing/landing-pages-watch.md)
+   + [Formulaires](/help/email-marketing/forms-learn.md)
+   + [Délivrabilité des e-mails](/help/email-marketing/email-deliverability-learn.md)
+   + [Présentation de la délivrabilité des e-mails](/help/email-marketing/email-deliverability-watch.md)
+   + [E-mail déclenché](/help/email-marketing/triggered-email-learn.md)
+   + [Présentation des e-mails déclenchés](/help/email-marketing/triggered-email-watch.md)
+   + [Fidélisation de lead](/help/email-marketing/lead-nuturing-learn.md)
+   + [Contenu dynamique et prédictif](/help/email-marketing/dynamic-and-predictive-content-learn.md)
+   + [Filtrage des activités robot d’e-mail : configuration](/help/filtering-email-bot-activities/setup.md)
++ Marketing cross-canal {#cross-channel-marketing}
+   + [Présentation des formulaires](/help/email-marketing/forms-watch.md)
+   + [Intégration du marketing mobile](/help/cross-channel-marketing/mobile-marketing-learn.md)
+   + [Présentation du marketing mobile](/help/cross-channel-marketing/mobile-marketing-watch.md)
+   + [Personnalisation web](/help/cross-channel-marketing/web-personalization-learn.md)
+   + [Présentation de la personnalisation web](/help/cross-channel-marketing/web-personalization-watch.md)
++ Dynamic Chat {#dynamic-chat}
+   + [Vue d’ensemble](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Visite guidée [2023]](/help/dynamic-chat/product-tour.md)
+   + [Visite guidée [2022]](/help/dynamic-chat/product-tour-2022.md)
+   + [Mise en production en 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + [Configurer et installer](/help/dynamic-chat/setup.md)
+   + [Intégration Marketo](/help/dynamic-chat/marketo-integration.md)
+   + [Gestion des utilisateurs et utilisatrices](/help/dynamic-chat/user-management.md)
+   + [Gestion des agents](/help/dynamic-chat/agent-management.md)
+   + [Gestion de la boîte de dialogue](/help/dynamic-chat/dialogue-management.md)
+   + [Incorporer des PDF dans les conversations](/help/dynamic-chat/document-cloud-integration.md)
+   + [Rechercher dans le concepteur de flux](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Capture des attributs déduits](/help/dynamic-chat/capture-inferred-attributes.md)
+   + [Aperçu de la boîte de dialogue](/help/dynamic-chat/dialogue-preview.md)
+   + [Globalisation du contenu statique](/help/dynamic-chat/globalization-of-static-content.md)
+   + [Formulaires conversationnels](/help/dynamic-chat/conversational-forms.md)
+   + [SDK des conversations](/help/dynamic-chat/conversations-sdk.md)
+   + [Flux réutilisables](/help/dynamic-chat/reusable-flows.md)
+   + [Pages de destination conversationnelles](/help/dynamic-chat/conversational-landing-pages.md)
+   + [Bonnes pratiques pour implémenter le chat en direct](/help/dynamic-chat/live-chat-best-practices.md)
+   + [Connecter les visiteurs et visiteuses aux agents en direct](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+   + [Réservations de réunion](/help/dynamic-chat/meeting-booking.md)
+   + [Stimuler des conversations basées sur l’IA générative](/help/dynamic-chat/gen-ai-features.md)
+   + [Rapport d’engagement](/help/dynamic-chat/engagement-report.md)
++ Actions Sales Insight {#sales-insight-actions}
+   + [Vue d’ensemble](/help/sales-insight-actions/overview.md)
+   + [Vue d’ensemble des actions Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Accès à votre instance d’actions Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Configurer la journalisation des activités de vente sur  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Lead et gestion des données {#lead-and-data-management}
+   + [Présentation des scores](/help/lead-and-data-management/understanding-scoring.md)
+   + [Score d’un lead/d’une personne](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Présentation du score d’un lead/d’une personne](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Présentation du cycle de vie d’un lead](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
+   + [Centre d’abonnement](/help/lead-and-data-management/subscription-center-learn.md)
+   + [Présentation du centre d’abonnement](/help/lead-and-data-management/subscription-center-watch.md)
+   + [Synchronisation CRM](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Prise en main de la synchronisation Salesforce](/help/integrations/salesforce-sync-setup.md)
+   + [Prise en main de la synchronisation Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Cycle de vie des leads](/help/lead-and-data-management/lead-lifecycle-learn.md)
+   + [Présentation du cycle de vie des leads](/help/lead-and-data-management/lead-lifecycle-watch.md)
++ Événements {#events}
+   + [Présentation des événements](/help/events/events-watch.md)
+   + [Création d’un programme d’événements](/help/events/events-learn.md)
+   + [Webinaires](/help/events/webinar-learn.md)
+   + [Présentation des webinaires](/help/events/webinar-watch.md)
+   + [Vue d’ensemble des webinaires interactifs](/help/events/interactive-webinars-overview.md)
+   + [Gestion des utilisateurs, des utilisatrices et des licences pour les webinaires interactifs](/help/events/interactive-webinars-user-and-license-management.md)
+   + [Création d’un programme d’événements de webinaires interactifs](/help/events/interactive-webinars-event-program-creation.md)
+   + [Vue d’ensemble du programme d’événements de webinaires interactifs](/help/events/interactive-webinars-event-program-overview.md)
+   + [Configuration d’un événement de webinaires interactifs](/help/events/interactive-webinars-event-configuration.md)
+   + [Concevoir un webinaire interactif efficace](/help/events/design-an-effective-interactive-webinar.md)
+   + [Diffusion d’événements de webinaires interactifs](/help/events/interactive-webinars-event-delivery.md)
+   + [Informations et actions sur des événements de webinaires interactifs passés](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [Webinaires à la demande](/help/events/on-demand-webinars.md)
++ Rapports et analyses {#reporting}
+   + [Principaux rapports](/help/reporting/key-reports.md)
++ Intégrations {#integrations}
+   + [Marketo avec Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=fr)
+   + [Assistance API : comment définir le jeton d’accès dans une variable](/help/integrations/api-set-access-token-variable.md)
+   + [Déclenchement d’une campagne intelligente dans Marketo Engage à l’aide de l’API REST et de jetons](/help/integrations/trigger-smart-campaign-rest-api.md)
++ Gestion des doublons {#manage-duplicates}
+   + [Présentation de la gestion des doublons](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Comprendre les raisons pour lesquelles des doublons se produisent.](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Identifier et prévenir les enregistrements en double](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Déterminer quand les enregistrements en double sont nécessaires.](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Fusion manuelle des enregistrements en double](/help/managing-duplicates/merge-manually.md)
+   + [Fusion en bloc des doublons (partie 1)](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Fusion en bloc des doublons (partie 2)](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Fusion en bloc des doublons (partie 3)](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Automatiser la gestion des doublons (partie 1)](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Automatiser la gestion des doublons (partie 2)](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Simplifier la gestion des doublons](/help/managing-duplicates/simplify-acs.md)
+   + [Choisir la meilleure stratégie de gestion des doublons](/help/managing-duplicates/duplicate-strategy.md)
++ Shorts {#shorts}
+   + [Assistant AI pour Email Designer](/help/shorts/ai-assistant-email-designer.md)
+
