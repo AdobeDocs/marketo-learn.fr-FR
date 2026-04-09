@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Le respect [!DNL Marketo's] bonnes pratiques suggérées pour organiser vos programmes et votre instance peut vous aider, vous et vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et à rendre vos rapports plus précis.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413375/?captions=fre_fr&quality=12&learn=on){transcript=true}

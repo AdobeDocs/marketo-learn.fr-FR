@@ -21,4 +21,4 @@ ht-degree: 33%
 
 Découvrez comment la carte de l’engagement aide à résoudre rapidement les problèmes de campagne
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423286/?captions=fre_fr&learn=on){transcript=true}

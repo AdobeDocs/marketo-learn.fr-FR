@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment les services professionnels d’Adobe peuvent vous aider à gérer les enregistrements en double grâce à une approche simple.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436782/?captions=fre_fr&learn=on&enablevpops)
