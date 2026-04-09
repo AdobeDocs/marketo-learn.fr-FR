@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 95%
    + [Présentation du score d’un lead/d’une personne](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [Présentation du cycle de vie d’un lead](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Centre d’abonnement](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [Présentation du centre d’abonnement](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[Présentation du centre d’abonnements](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [Synchronisation CRM](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Prise en main de la synchronisation Salesforce](/help/main/integrations/salesforce-sync-setup.md)
    + [Prise en main de la synchronisation Microsoft Dynamics](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -138,18 +138,18 @@ ht-degree: 95%
    + [Assistance API : comment définir le jeton d’accès dans une variable](/help/main/integrations/api-set-access-token-variable.md)
    + [Déclenchement d’une campagne intelligente dans Marketo Engage à l’aide de l’API REST et de jetons](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + Gestion des doublons {#manage-duplicates}
-   + [Présentation de la gestion des doublons](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [Comprendre les raisons pour lesquelles des doublons se produisent.](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [Identifier et prévenir les enregistrements en double](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [Déterminer quand les enregistrements en double sont nécessaires.](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [Fusion manuelle des enregistrements en double](/help/main/managing-duplicates/merge-manually.md)
-   + [Fusion en bloc des doublons (partie 1)](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [Fusion en bloc des doublons (partie 2)](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [Fusion en bloc des doublons (partie 3)](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [Automatiser la gestion des doublons (partie 1)](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [Automatiser la gestion des doublons (partie 2)](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [Simplifier la gestion des doublons](/help/main/managing-duplicates/simplify-acs.md)
-   + [Choisir la meilleure stratégie de gestion des doublons](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[Présentation de la gestion des doublons](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[Comprendre pourquoi des doublons se produisent](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[Identification et prévention des enregistrements en double](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[Déterminer quand les enregistrements en double sont nécessaires](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[Fusion manuelle des enregistrements en double](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[Fusion en bloc des duplicatas - Partie 1](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[Fusion en bloc des doublons - Partie 2](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[Fusion en bloc des doublons - Partie 3](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[Gestion automatique des doublons - Partie 1](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[Gestion automatique des doublons - Partie 2](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[Simplifier la gestion des doublons](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[Choisir la meilleure stratégie de gestion des doublons](/help/main/managing-duplicates/duplicate-strategy.md)
 + Shorts {#shorts}
    + [Assistant AI pour le concepteur d’e-mails](/help/main/shorts/ai-assistant-email-designer.md)
    + [Contenu conditionnel](/help/main/shorts/conditional-content.md)

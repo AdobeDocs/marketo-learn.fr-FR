@@ -4,11 +4,10 @@ description: Les bonnes pratiques  [!DNL Marketo's]  pour organiser vos programm
 role: User
 level: Beginner
 jira: KT-10736
-hidefromtoc: true
 hide: true
 thumbnail: 345420.jpeg
 exl-id: c128913a-a4f7-4f45-ab62-3ced27f068d5
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,4 +18,4 @@ ht-degree: 0%
 
 Le respect [!DNL Marketo's] bonnes pratiques suggérées pour organiser vos programmes et votre instance peut vous aider, vous et vos collègues, à trouver ce dont vous avez besoin dans votre instance lorsque vous en avez besoin et à rendre vos rapports plus précis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413375/?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
