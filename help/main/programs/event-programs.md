@@ -30,7 +30,7 @@ Pour plus d’informations, consultez les guides des produits associés :
 
 Regardez d’autres vidéos pour obtenir de l’aide sur cette fonctionnalité :
 * [Présentation des événements](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=fr)
-* [Présentation des webinaires](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Présentation des webinaires](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=fr)
 
 Apprenez de vos pairs à utiliser les programmes d’événement :
 * [Article de blog d’expert sur les clients : programmes d’événement](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
