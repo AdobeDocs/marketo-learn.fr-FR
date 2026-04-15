@@ -28,7 +28,7 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 * [Importation de modèles](/help/main/shorts/template-import.md)
   _Découvrez comment importer vos modèles d’e-mail existants à partir de l’éditeur classique dans le Designer d’e-mail, en préservant vos conceptions et en accélérant la création de modèles_
 
-* Assistant [ AI pour Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
+* Assistant [&#x200B; AI pour Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
   _Utilisez l’assistant AI dans le Designer d’e-mail Marketo Engage pour vous aider à créer des e-mails contemporains, performants et intuitifs._
 
 * [Contenu conditionnel](/help/main/shorts/conditional-content.md)
