@@ -3,10 +3,10 @@ title: Tutoriels Marketo Engage
 description: Regardez des tutoriels vidéo sur  [!DNL Marketo Engage]. Approfondissez votre compréhension de l’utilisation des fonctionnalités d’automatisation du marketing, etc.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 
 ## Nouveautés {#whats-new}
 
+* Assistant [&#x200B; AI pour Email Designer](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _Utilisez l’assistant AI dans le Designer d’e-mail Marketo Engage pour vous aider à créer des e-mails contemporains, performants et intuitifs._
+
+* [Contenu conditionnel](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _Découvrez comment contrôler dynamiquement le contenu affiché par chaque audience._
+
 * [Bonnes pratiques pour implémenter le chat en direct](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Découvrez les bonnes pratiques à suivre lorsque vous implémentez la fonctionnalité de chat en direct dans Dynamic Chat._
-
-* [Présentation des webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _En savoir plus sur les webinaires interactifs, la plateforme de webinaires intégrée à Marketo Engage._
-
-* [Migration vers Adobe Identity Management](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Découvrez comment parcourir la migration d’Adobe Identity Management afin de commencer à gérer Adobe Marketo Engage ainsi que d’autres comptes et produits Adobe pour vos utilisateurs et utilisatrices dans un emplacement centralisé._
 
 ## Vidéos les plus appréciées {#most-popular-videos}
 
