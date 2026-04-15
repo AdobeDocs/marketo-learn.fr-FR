@@ -25,10 +25,10 @@ Parcourez notre bibliothèque de tutoriels et tirez le meilleur parti de [!DNL M
 
 ## Nouveautés {#whats-new}
 
-* Assistant [&#x200B; AI pour Email Designer](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* Assistant [&#x200B; AI pour Email Designer](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
   _Utilisez l’assistant AI dans le Designer d’e-mail Marketo Engage pour vous aider à créer des e-mails contemporains, performants et intuitifs._
 
-* [Contenu conditionnel](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [Contenu conditionnel](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/shorts/conditional-content)
   _Découvrez comment contrôler dynamiquement le contenu affiché par chaque audience._
 
 * [Bonnes pratiques pour implémenter le chat en direct](https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
