@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Marketo Engage
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Marketo Engage.
 breadcrumb-title: Tutoriels Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [Vue d’ensemble des jetons](/help/main/fundamentals/tokens-overview.md)
    + [Personnaliser avec des jetons](/help/main/personalization/personalize-with-tokens.md)
    + [Programmes et campagnes](/help/main/fundamentals/programs-and-campaigns.md)
-   + [Migration vers Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bonnes pratiques pour organiser une nouvelle instance](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bonnes pratiques pour créer des programmes fondamentaux](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Mise en œuvre d’une nouvelle instance - Tutoriel](https://experienceleague.adobe.com/fr/docs/experiences-by-you/implementing-new-instance/overview)
