@@ -1,7 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Engage
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 product: marketo
 landing-page-name: marketo-engage
 landing-page-breadcrumb-title: Marketo Engage
@@ -23,4 +24,4 @@ ht-degree: 68%
 
 Le fichier [!DNL metadata].md comprend des métadonnées au niveau du référentiel qui sont transmises au guide de l’utilisateur [!DNL TOC.md] aux fichiers du référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez [ Métadonnées ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
+Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
