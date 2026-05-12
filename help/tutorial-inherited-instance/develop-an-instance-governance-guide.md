@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 959
 ht-degree: 1%
 
 ---
@@ -29,7 +35,7 @@ Une documentation détaillée et un [!DNL changelog] sont essentiels pour une ge
 
 1. Formez plus facilement les utilisateurs internes de manière évolutive.
 2. Construire plus efficacement en [!DNL Marketo Engage] à long terme.
-3. Maintenez l’intégrité et l’hygiène de votre instance à l’avenir afin d’éviter de passer des heures à creuser dans les e-mails, [journal d’audit](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=fr) et [journal d’activité](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=fr) pour obtenir du contexte.
+3. Maintenez l’intégrité et l’hygiène de votre instance à l’avenir afin d’éviter de passer des heures à creuser dans les e-mails, [journal d’audit](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) et [journal d’activité](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) pour obtenir du contexte.
 4. Gagnez du temps lors du transfert de [!DNL Marketo Engage] connaissances à un nouvel administrateur [!DNL Marketo Engage] si votre équipe fait l’objet d’un roulement.
 
 ## Guide de gouvernance [!DNL Marketo Engage] 101
@@ -51,7 +57,7 @@ Un guide de gouvernance sert de source de vérité pour la configuration des ins
 
 ### Étape 2 : identifier les éléments à inclure dans votre documentation et [!DNL Changelogs] [!DNL Marketo Engage]
 
-Le format varie d’une plateforme cloud à un document partagé. Vous pouvez concevoir le format qui répond aux besoins de votre entreprise. [Voici un modèle Excel simple de documentation et de journal des modifications](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) qui couvre les éléments importants pour la prise en main. Ces cas comprennent notamment :
+Le format varie d’une plateforme cloud à un document partagé. Vous pouvez concevoir le format qui répond aux besoins de votre entreprise. [Voici un modèle Excel de documentation et de journal des modifications simple](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) couvrant les éléments importants avec lesquels vous pouvez commencer. Ces cas comprennent notamment :
 
 * Documentation
    * Nom du modèle de programme
@@ -113,9 +119,9 @@ Maintenir une documentation complète et à jour pour votre instance Marketo Eng
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![&#x200B; Nick Hajdin &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
+![ Nick Hajdin ](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing adoption et rétention, Adobe*
 
-![&#x200B; Amy Chiu &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![ Amy Chiu ](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

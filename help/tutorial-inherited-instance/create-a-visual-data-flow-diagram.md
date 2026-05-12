@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ En tant qu’administrateur prenant en charge une instance [!DNL Marketo Engage]
 
 1. **Familiarisez-vous avec le tech stack marketing hérité d’une instance active.** Tous les responsables des opérations marketing/responsables des opérations de plateforme sont encouragés à effectuer cet exercice lors du démarrage dans une nouvelle entreprise. Ce processus de création permet aux utilisateurs administrateurs d’avoir une vue d’ensemble des données et activités envoyées depuis les intégrations externes vers [!DNL Marketo Engage] et de résoudre facilement les erreurs d’API.
 2. **Familiarisez-vous avec les principales parties prenantes qui gèrent les intégrations externes.** Une astuce que Kelly Jo Horton utilise pour identifier rapidement les parties prenantes est de référencer la liste des utilisateurs d’API.
-   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=fr){target="_blank"}.
+   1. **Accédez à l’onglet « Intégration > LaunchPoint » dans la section « Administration ».** En savoir plus sur la navigation vers l’onglet « LaunchPoint » : [Créer un service personnalisé à utiliser avec l’API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Recherchez les statistiques d’utilisation de l’API par utilisateur de l’API dans l’onglet Intégration > Services web de la section Informations sur l’appel API . En cliquant sur le numéro d’appel API, vous pouvez afficher les appels individuels spécifiques effectués par chaque utilisateur.
 
 ## Comment effectuer cet exercice de diagramme de flux de données visuelles
@@ -47,12 +53,12 @@ Créez un diagramme « État futur » qui peut être utilisé lors de la présen
 
 Créez une version technique qui affiche des détails tels que le nom d&#39;utilisateur de l&#39;API pour chaque intégration, une brève description du type de données transmises à [!DNL Marketo Engage] ou extraites de [!DNL Marketo Engage], ainsi qu&#39;un diagramme détaillé de tous les flux et déclencheurs de middleware. Voici un exemple :
 
-![Version technique &#x200B;](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![Version technique ](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## Quelle est la suite ?
 
-**Prise en main des exemples :**
+**Prise en main avec des exemples :**
 Téléchargez l’un des exemples de diagrammes de flux de données pour cartographier l’état actuel de votre tech stack marketing, de votre personne et de votre flux de données, ou créez un diagramme pour votre univers de données à partir de zéro lorsque vous auditez l’instance :
 
 
@@ -127,9 +133,9 @@ Voici quelques outils que vous pouvez utiliser : draw.io (Google Docs), Adobe XD
 Adobe Marketo Champion (2019)
 *Partenaire client senior chez Etumos*
 
-![&#x200B; Kelly Jo Horton &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![ Kelly Jo Horton ](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *Responsable marketing adoption et rétention, Adobe*
 
-![&#x200B; Amy Chiu &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![ Amy Chiu ](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
