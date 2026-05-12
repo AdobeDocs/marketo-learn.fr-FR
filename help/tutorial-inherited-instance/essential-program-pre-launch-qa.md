@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -185,7 +218,7 @@ Il se peut que des éléments soient manquants ou non applicables, car votre éq
 | 19 | **A/B et test Champ/Challenger** | Exécutez-vous des tests de champion/challenger sur l’e-mail ? | **Oui ou non :**<br> si vous n’effectuez aucun test, réfléchissez à la question de savoir si vous ratez une opportunité d’en savoir plus sur votre audience. | [Création d’un test A/B](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=fr)<br><br>[Ajout d’un e-mail Champion/Challenger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=fr){target="_blank"} |
 | 20 | **Test client** | Avez-vous exécuté l’e-mail via votre logiciel de test client ?<li>Avez-vous identifié des problèmes d’affichage avec les principaux clients de messagerie ? <li>Avez-vous corrigé ou consigné comme correctif de modèle non urgent ? <li>Avez-vous identifié des problèmes de vitesse de chargement et tenté de les améliorer ?<li>Avez-vous identifié des problèmes de ligne d&#39;objet/ligne d&#39;aperçu ? Sont-ils résolus ? | **Oui ou non applicable :**<br> si vous ne pouvez pas répondre par oui (à moins que vous ne disposiez pas d’un logiciel de test), vous devez le faire avant d’envoyer. | Les exemples de logiciels de test client incluent Litmus ou Email on Acid ou [Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=fr)<br><br>[Inbox Tracker Tutoriels](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=fr){target="_blank"} |
 | 21 | **Test de spam** | Avez-vous exécuté l&#39;e-mail par le biais du processus de spam ?<li>Y a-t-il des signaux d&#39;alarme à caractère préventif ?<li>Avez-vous identifié des indicateurs de client de messagerie/d’emplacement de boîte de réception ? <li>Avez-vous cherché des causes potentielles et tenté de les résoudre ? | **Oui ou non applicable :**<br> Si vous ne pouvez pas répondre par oui (à moins que vous ne disposiez pas d’un logiciel de test), vous devez le faire avant de procéder à l’envoi. | Utilisez la fonctionnalité de suivi de la boîte de réception de Marketo [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=fr){target="_blank"} si elle est incluse dans votre contrat ou si vous disposez d’outils tels que Litmus ou Email on Acid. |
-| 22 | **Analyses supplémentaires** | L’e-mail contient-il du code d’analyse supplémentaire inclus ? | **Oui ou non applicable :**<br>       Si vous ne pouvez pas répondre par oui (à moins que vous ne disposiez pas d’un logiciel d’analyse supplémentaire), vous devez le faire avant d’envoyer. |  |
+| 22 | **Analyses supplémentaires** | L’e-mail contient-il du code d’analyse supplémentaire inclus ? | **Oui ou non applicable :**<br> si vous ne pouvez pas répondre par oui (à moins que vous ne disposiez pas d’un logiciel d’analyse supplémentaire), vous devez le faire avant de procéder à l’envoi. |  |
 
 >[!TAB Vérifications finales]
 
