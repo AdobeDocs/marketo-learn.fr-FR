@@ -20,4 +20,4 @@ ht-degree: 9%
 
 Les jetons sont des variables qui extraient des données personnalisées à utiliser dans des étapes de flux de campagne intelligente, des e-mails, des pages de destination, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470574/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
