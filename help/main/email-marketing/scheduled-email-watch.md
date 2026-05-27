@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Découvrez comment créer, gérer et suivre un programme d’e-mail planifié.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412014/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

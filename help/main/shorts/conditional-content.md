@@ -20,4 +20,4 @@ ht-degree: 14%
 
 Découvrez comment contrôler de manière dynamique le contenu affiché par chaque audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481284/?captions=fre_fr&learn=on&enablevpops)

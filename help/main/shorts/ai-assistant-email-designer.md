@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Utilisez l’assistant AI dans le Designer de messagerie Marketo Engage pour vous aider à créer des e-mails contemporains, performants et intuitifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483186/?captions=fre_fr&learn=on&enablevpops)

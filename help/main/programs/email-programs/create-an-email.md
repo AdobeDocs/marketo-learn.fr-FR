@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment créer, personnaliser et tester un e-mail dans un programme de messagerie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470636/?captions=fre_fr&learn=on&enablevpops)
