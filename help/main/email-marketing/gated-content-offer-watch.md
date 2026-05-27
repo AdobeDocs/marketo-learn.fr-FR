@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment configurer et suivre un programme d’e-mail de contenu contrôlé dans Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412031/?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 16%
 
 Découvrez comment utiliser un programme de messagerie pour envoyer rapidement et facilement un e-mail à plusieurs destinataires et suivre ses résultats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470609/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)

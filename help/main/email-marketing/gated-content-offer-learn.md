@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En obtenant votre meilleur contenu en tant que stratégie de marketing de contenu, vous pourrez générer des pistes et savoir lequel de vos visiteurs est sérieux. Découvrez le contenu sécurisé, son fonctionnement et les étapes à suivre pour réussir.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412223/?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}

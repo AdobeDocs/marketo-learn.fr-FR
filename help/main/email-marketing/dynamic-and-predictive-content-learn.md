@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Diffuser du contenu pertinent est l’une des idées les plus importantes en matière de marketing. Découvrez comment utiliser l’IA dédiée au contenu Marketo et comment appliquer du contenu dynamique lorsque vous utilisez Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411448/?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
