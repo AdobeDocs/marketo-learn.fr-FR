@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Grâce à [!UICONTROL l&#39;entraide entre les personnes], vous pouvez être à l&#39;écoute des besoins des particuliers et y répondre avec du contenu pertinent dans l&#39;ensemble de leur parcours d&#39;achat unique. Découvrez les programmes de formation, leur fonctionnement et les étapes de la réussite.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411652/?captions=fre_fr&quality=12&learn=on){transcript=true}

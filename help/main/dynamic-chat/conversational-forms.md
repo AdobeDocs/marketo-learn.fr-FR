@@ -22,4 +22,4 @@ ht-degree: 4%
 
 Dans notre vidéo détaillée, nous vous guidons tout au long du processus afin de faciliter la mise en œuvre de cet outil puissant pour votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443358/?captions=fre_fr&learn=on)
