@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez les concepts de base de la gestion des enregistrements en double dans la base de données Marketo Engage, leur impact sur les workflows et les 4 méthodes permettant de conserver des données nettoyées. Regardez chaque clip vidéo pour savoir comment garder votre base de données propre et saine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441952/?captions=fre_fr&learn=on&enablevpops)

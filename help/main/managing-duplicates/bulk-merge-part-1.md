@@ -19,4 +19,4 @@ ht-degree: 0%
 
 En savoir plus sur les scénarios et la justification du traitement de la fusion en bloc des doublons. Commencez la fusion en bloc en exportant les enregistrements en double vers Excel pour un nettoyage et une consolidation efficaces des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439227/?captions=fre_fr&learn=on&enablevpops)

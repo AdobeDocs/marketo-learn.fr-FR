@@ -1,5 +1,5 @@
 ---
-title: Déterminer quand les enregistrements en double sont nécessaires.
+title: Déterminer dans quels cas des enregistrements en double sont nécessaires
 description: Découvrez les scénarios dans lesquels les doublons sont utiles, tels que les foyers composés de plusieurs personnes ou les besoins en matière de conformité, et comment les gérer efficacement.
 role: Admin
 level: Intermediate, Experienced
@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Découvrez les scénarios dans lesquels les doublons sont utiles, tels que les foyers composés de plusieurs personnes ou les besoins en matière de conformité, et comment les gérer efficacement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442047/?captions=fre_fr&learn=on&enablevpops)
