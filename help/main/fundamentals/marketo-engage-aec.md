@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Découvrez comment accéder à Marketo Engage à partir d’Adobe Experience Cloud et faites une présentation rapide de l’interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429413t1/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443681/?captions=fre_fr&learn=on&enablevpops)
