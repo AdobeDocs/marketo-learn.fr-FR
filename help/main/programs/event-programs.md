@@ -30,7 +30,7 @@ ht-degree: 24%
 
 Regardez cette vidéo pour maîtriser les bases et créer votre premier programme d’événement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453996/?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

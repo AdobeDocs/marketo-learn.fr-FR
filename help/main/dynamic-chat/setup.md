@@ -31,7 +31,7 @@ ht-degree: 33%
 
 Ce guide vous aide à installer le code JavaScript du robot conversationnel sur votre site web ou page de destination et à personnaliser son apparence afin qu’elle corresponde à votre marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345021/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Vidéos plus utiles
 
