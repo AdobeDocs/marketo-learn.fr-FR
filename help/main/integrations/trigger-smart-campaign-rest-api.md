@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # Déclenchement d’une campagne intelligente dans Marketo Engage à l’aide de l’API REST et de jetons
 
 Ce tutoriel vous explique comment déclencher une campagne intelligente dans Marketo Engage à l’aide de l’API REST et personnaliser l’e-mail à l’aide de Mes jetons. Ce cas d’utilisation est idéal pour les notifications déclenchées par le client comme les rappels de webinaire, les étapes d’intégration ou les suivis après achat.
@@ -22,9 +37,9 @@ Une personne s’inscrit à un webinaire par le biais d’une plateforme externe
 
 * Déclencher un e-mail de rappel depuis Marketo Engage
 * Personnalisez-le avec :
-   * Prénom de la personne
-   * Titre du webinaire
-   * Un lien de jointure unique
+  * Prénom de la personne
+  * Titre du webinaire
+  * Un lien de jointure unique
 
 Vous pouvez le faire à l’aide de l’API REST et de Mes jetons.
 
