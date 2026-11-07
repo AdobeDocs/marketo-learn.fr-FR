@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Les webinaires à la demande capturent et affinent les leads qui se sont inscrits à votre événement et qui n’y ont pas assisté, mais qui souhaitent obtenir des informations relatives à l’événement en regardant l’enregistrement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506200/?captions=fre_fr&learn=on)
